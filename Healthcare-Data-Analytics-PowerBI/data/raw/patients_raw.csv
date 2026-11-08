@@ -1,0 +1,2201 @@
+PatientID,PatientName,Gender,Age,City,RegistrationDate
+1001,David Sanchez,F,55,Brooklyn,2023-01-30
+1002,Matthew Martin,Female,68,Staten Island,2023-07-21
+1003,James Perez,F,15,Staten Island,2023-10-19
+1004,Nancy Brown,Male,56,Queens,2023-04-10
+1005,James White,F,34,Queens,2023-06-04
+1006,Michael Ramirez,F,39,,2022-06-06
+1007,Lisa Harris,Female,70,New York,2023-09-06
+1008,Christopher Thomas,Male,15,Jersey City,2022-11-11
+1009,Jessica Johnson,Female,73,Brooklyn,2022-03-29
+1010,Ashley Clark,Male,69,Queens,2022-05-12
+1011,Mark Moore,Female,34,Newark,2022-08-05
+1012,Steven Harris,F,26,Staten Island,2023-02-13
+1013,Lisa Anderson, male ,58,Brooklyn,2022-09-11
+1014,Joseph Williams,Male,3,Bronx,2023-08-26
+1015,Joseph Smith,Male,81,New York,2022-08-23
+1016,Robert Lewis,Male,43,Brooklyn,2023-06-11
+1017,Jessica Rodriguez,F,63,Bronx,2023-07-07
+1018,William White,M,74,Yonkers,2022-09-06
+1019,Mark Sanchez,Female,25,Brooklyn,2022-04-10
+1020,Margaret Lopez,Female,53,Yonkers,2022-02-25
+1021,Michael Johnson,Female,44,Brooklyn,2022-09-12
+1022,Richard Miller,M,58,Queens,2023-03-09
+1023,Barbara Rodriguez,Female,32,Brooklyn,2023-03-30
+1024,Emily Brown,Male,84,New York,2022-04-06
+1025,Jessica Garcia,Female,63,Yonkers,2022-08-07
+1026,  John Smith ,Male,22,Newark,2022-01-03
+1027,Matthew Rodriguez,Female,37,Newark,2023-07-24
+1028,Ashley Jones,Female,38,Bronx,2022-03-01
+1029,Donna White,M,8,Jersey City,2022-02-28
+1030,Patricia Jackson,Female,65,Queens,2022-02-28
+1031,Paul Williams,Female,9,Brooklyn,2023-11-23
+1032,Jessica Gonzalez,Male,73,Bronx,2023-08-16
+1033,Kenneth Johnson,M,11,Newark,2023-11-05
+1034,Donna Jackson,M,41,Staten Island,2022-07-29
+1035,Christopher Davis,Male,51,Queens,2023-11-19
+1036,Karen Anderson,Male,10,New York,2023-04-15
+1037,Michelle Jackson,Male,10,Bronx,2023-06-03
+1038,Thomas Jones,Male,9,Bronx,2023-01-14
+1039,Charles Garcia,Female,70,Staten Island,2023-09-19
+1040,Kimberly Smith,F,71,Staten Island,2023-11-11
+1041,Michael Lewis,Female,34,Brooklyn,2022-04-20
+1042,Emily Jones,Male,37,Bronx,2022-12-18
+1043,Susan Perez,F,34,Yonkers,2022-09-15
+1044,Patricia Williams,F,55,Staten Island,2022-02-15
+1045,James Hernandez,Female,82,Staten Island,2022-06-15
+1046,Donald Moore,F,55,New York,2022-04-25
+1047,Robert Lewis,F,20,New York,2023-01-14
+1048,Donna Moore,Female,56,Queens,2022-02-12
+1049,Karen Lopez,Male,46,Bronx,2023-11-30
+1050,Jessica Perez,Male,46,Newark,2023-09-28
+1051,Elizabeth Robinson,Female,21,Queens,2023-02-27
+1052,Mary Garcia,F,43,Newark,2023-11-17
+1053,Jessica Rodriguez,Female,14,Newark,2022-02-09
+1054,Mark Davis,Female,59,Jersey City,2022-11-09
+1055,Joseph Davis,Male,85,Bronx,2023-02-13
+1056,Nancy Rodriguez,Male,36,Jersey City,2023-10-19
+1057,Paul Gonzalez,F,69,Jersey City,2022-01-29
+1058,Linda Lewis,Male,23,Staten Island,2022-02-09
+1059,Michael Martin,Female,45,Jersey City,2023-03-23
+1060,Kenneth Taylor,Male,50,Bronx,2022-09-18
+1061,John Thompson,Female,1,Bronx,2023-01-08
+1062,Margaret Williams,F,43,Jersey City,2023-11-11
+1063,Linda White,Male,65,Staten Island,2023-11-14
+1064,Anthony Hernandez,Female,38,Queens,2022-07-16
+1065,Anthony Perez,Female,87,Queens,2023-09-23
+1066,Andrew Martinez,Female,71,New York,2022-11-08
+1067,Charles Miller,Female,75,Jersey City,2023-04-22
+1068,Donald Anderson,F,28,Yonkers,2022-06-23
+1069,Jennifer Martinez,M,85,Jersey City,2022-04-06
+1070,Jessica Perez,Male,29,Bronx,2022-05-31
+1071,Mary Johnson,Female,61,Brooklyn,2023-04-12
+1072,Anthony Lewis,F,74,Bronx,2023-01-29
+1073,Ashley Gonzalez,Female,19,New York,2022-04-20
+1074,Margaret Davis,Female,67,Yonkers,2022-02-21
+1075,Emily Davis,Male,59,Queens,2023-04-21
+1076,Kimberly Moore,M,41,Yonkers,2023-09-20
+1077,Paul Wilson,M,58,Queens,2023-05-02
+1078,Donald Rodriguez,Female,82,Staten Island,2023-06-18
+1079,Ashley Lee,Female,36,Yonkers,2022-03-21
+1080,Charles Davis,Male,43,Jersey City,2023-07-08
+1081,Jennifer Jones,Female,30,Newark,2022-06-06
+1082,Susan Williams,Female,53,Jersey City,2023-07-10
+1083,Sandra Wilson,Male,27,Newark,2023-02-03
+1084,Donna Thompson,Male,74,Newark,2023-05-04
+1085,James Lopez,Male,50,Newark,2023-07-06
+1086,Steven Sanchez,M,29,Yonkers,2022-08-13
+1087,Sarah Wilson,Female,4,Newark,2022-12-11
+1088,Betty White,Female,60,Queens,2023-09-30
+1089,Steven Smith,Female,76,New York,2022-03-27
+1090,Margaret Jones,Female,24,New York,2022-09-24
+1091,Matthew Hernandez,Female,59,Jersey City,2022-12-12
+1092,Matthew Rodriguez,Female,33,Brooklyn,2023-04-27
+1093,Mary White,M,7,Jersey City,2022-08-18
+1094,Robert Harris,F,6,New York,2022-09-11
+1095,Richard Clark,Male,80,Queens,2022-09-02
+1096,William Thomas,F,15,Bronx,2023-04-22
+1097,Thomas Harris,Male,22,Brooklyn,2022-06-17
+1098,Karen Brown,M,4,Staten Island,2023-08-13
+1099,Matthew Gonzalez,F,26,Brooklyn,2023-08-30
+1100,Jessica Brown,F,39,Brooklyn,2023-08-03
+1101,John Lopez,M,55,Jersey City,2022-03-12
+1102,Paul Lee,Male,2,Newark,2023-05-17
+1103,Michael Wilson,Male,82,Yonkers,2022-06-06
+1104,Margaret Garcia,F,67,Staten Island,2023-09-23
+1105,Steven Harris,Female,60,Newark,2023-08-30
+1106,Sarah Hernandez,Female,12,Staten Island,2023-04-07
+1107,Jessica Harris,Female,73,Newark,2022-12-11
+1108,Mary Thomas,Male,24,Yonkers,2022-08-06
+1109,Daniel Sanchez,Male,44,Staten Island,2023-09-03
+1110,Sarah Moore,Male,67,Bronx,2022-03-29
+1111,Jessica White,Female,63,Bronx,2023-05-03
+1112,Ashley Anderson,Male,12,Staten Island,2022-08-15
+1113,Betty Thompson,Female,40,Jersey City,2023-04-30
+1114,Emily Taylor,Male,55,Jersey City,2022-12-27
+1115,Sandra Rodriguez,Male,33,Bronx,2022-05-04
+1116,Richard Hernandez,Male,69,Queens,2022-07-16
+1117,Susan White,Female,36,Staten Island,2022-04-13
+1118,Richard Martinez,Female,47,Queens,2022-11-06
+1119,James Thompson,M,17,Staten Island,2022-02-16
+1120,Patricia Moore,Male,17,Yonkers,2022-04-16
+1121,James Jackson,Male,61,Yonkers,2023-03-28
+1122,Nancy Garcia,Male,33,Yonkers,2022-04-27
+1123,Robert Gonzalez,Female,10,New York,2022-06-05
+1124,Elizabeth Sanchez,M,39,Brooklyn,2022-09-12
+1125,Linda Moore,Female,78,Bronx,2023-06-20
+1126,Matthew Anderson,Female,39,Newark,2022-11-09
+1127,Andrew Martin,Male,79,Brooklyn,2022-08-01
+1128,Susan Rodriguez,F,11,Queens,2022-09-03
+1129,Barbara Moore,Male,21,New York,2023-02-23
+1130,Donald Thompson,M,61,Staten Island,2022-02-03
+1131,Joseph Martinez,F,37,Yonkers,2022-03-14
+1132,Joseph Robinson,Male,81,Bronx,2023-03-12
+1133,Linda Moore,Female,83,Queens,2022-09-30
+1134,Elizabeth Williams,Male,22,Staten Island,2023-09-02
+1135,Andrew Robinson,Male,57,Brooklyn,2023-04-25
+1136,Karen Thompson,Female,35,Yonkers,2023-03-25
+1137,Jennifer Martin,Male,56,Jersey City,2023-09-11
+1138,Thomas Smith,Male,30,New York,2023-11-20
+1139,Sarah Jackson,Male,23,Yonkers,2023-06-16
+1140,Donald Robinson,Male,24,Newark,2023-10-13
+1141,Ashley Williams,Female,45,Newark,2022-12-08
+1142,Christopher Perez,Male,21,Jersey City,2023-02-26
+1143,Ashley Martinez,F,52,New York,2023-04-11
+1144,Jennifer Hernandez,Male,42,Brooklyn,2023-02-18
+1145,Paul Clark,Male,85,Yonkers,2023-02-28
+1146,Patricia Miller,M,47,Yonkers,2023-10-03
+1147,Donald Harris,Male,27,Staten Island,2023-07-17
+1148,William Robinson,Male,57,Yonkers,2022-05-05
+1149,Mary Lee,M,31,Queens,2022-11-15
+1150,Emily Smith,M,53,Brooklyn,2022-08-19
+1151,Linda Anderson,Male,83,Queens,2023-05-26
+1152,Charles Taylor,F,35,Newark,2023-05-10
+1153,Mark Davis,Female,71,Queens,2023-01-28
+1154,Richard Robinson,M,66,Queens,2022-03-13
+1155,Sarah Harris,Female,44,Staten Island,2022-01-03
+1156,Charles White,Male,76,Yonkers,2022-06-02
+1157,Donald Moore,Female,45,Jersey City,2023-07-20
+1158,Steven Gonzalez,Female,42,Bronx,2022-09-02
+1159,Andrew Gonzalez,Female,53,New York,2022-11-22
+1160,Mark Thompson,Female,50,Queens,2023-05-23
+1161,John Jones,M,76,Jersey City,2022-04-13
+1162,Donald Brown,M,59,New York,2022-05-28
+1163,Anthony Ramirez,F,20,Brooklyn,2023-04-26
+1164,Thomas Hernandez,M,51,Brooklyn,2022-12-03
+1165,Steven Gonzalez,Male,81,Yonkers,2023-07-09
+1166,John Martin,Male,31,Staten Island,2022-08-21
+1167,Jennifer Wilson,Male,82,Brooklyn,2023-03-31
+1168,David Thompson,Male,4,New York,2022-11-29
+1169,Patricia Martinez,Male,48,Newark,2022-05-30
+1170,Jessica Taylor,Female,73,Queens,2022-06-24
+1171,Barbara Williams,M,49,Bronx,2023-05-25
+1172,Donna Jones,Female,60,Staten Island,2023-04-16
+1173,Thomas Perez,Male,60,Staten Island,2023-11-25
+1174,Steven Garcia,Male,57,Jersey City,2023-08-25
+1175,Karen Lee,Female,33,Yonkers,2022-11-06
+1176,Richard Gonzalez,Female,14,Bronx,2023-01-26
+1177,Andrew Lopez,M,38,Staten Island,2022-01-23
+1178,Betty Rodriguez,Male,73,New York,2023-09-13
+1179,Ashley Clark,Male,30,Jersey City,2022-08-13
+1180,Richard Martin,Male,87,Queens,2023-10-06
+1181,Michael Lewis,F,83,New York,2022-11-13
+1182,Donald Johnson,M,47,Queens,2022-04-03
+1183,Charles Hernandez,F,54,Queens,2022-07-25
+1184,William Sanchez,M,47,Staten Island,2022-06-18
+1185,Thomas Robinson,Female,38,Jersey City,2022-04-28
+1186,Sandra Williams,Female,29,Newark,2023-07-25
+1187,Lisa Williams,Female,2,Staten Island,2023-07-04
+1188,Linda Anderson,Male,87,Staten Island,2023-08-22
+1189,Matthew Clark,F,48,Brooklyn,2023-11-23
+1190,Joseph Thomas,Male,80,Jersey City,2023-09-17
+1191,Joseph Lee,Male,82,Yonkers,2022-11-06
+1192,Anthony Brown,Female,6,New York,2022-11-08
+1193,Ashley Brown,Male,31,Queens,2023-02-02
+1194,Sandra Lopez,F,70,Newark,2023-08-25
+1195,Elizabeth Lewis,Female,84,Brooklyn,2023-05-17
+1196,Michelle Wilson,Male,5,Jersey City,2022-08-11
+1197,Donald Anderson,Female,47,Brooklyn,2023-01-12
+1198,Steven Lewis,F,46,New York,2023-02-12
+1199,Sarah Miller,Male,59,Brooklyn,2023-11-10
+1200,Susan Lee,F,77,New York,2022-02-21
+1201,Nancy Davis,Female,73,Bronx,2022-03-12
+1202,Emily Miller,M,28,Bronx,2022-12-03
+1203,Elizabeth Sanchez,M,1,Staten Island,2022-05-29
+1204,William Moore,Male,23,Brooklyn,2023-11-08
+1205,Mary Jones,Male,46,Bronx,2023-08-26
+1206,Christopher Smith,Female,34,New York,2022-05-10
+1207,Anthony Taylor,Male,9,Yonkers,2023-04-05
+1208,Lisa Taylor,M,14,Yonkers,2023-05-31
+1209,Joseph Martin,Male,85,Staten Island,2023-04-15
+1210,Mary Johnson,Female,52,Newark,2022-04-21
+1211,Ashley Thompson,Female,10,Brooklyn,2022-11-26
+1212,Kenneth Jones,Male,17,Staten Island,2023-10-02
+1213,Donna Moore,F,42,Newark,2023-09-04
+1214,Kimberly Martinez,Female,65,Newark,2022-04-12
+1215,Linda Ramirez,F,84,Bronx,2023-03-17
+1216,Donald Lewis,Female,53,Jersey City,2023-04-10
+1217,Betty Wilson,F,13,Jersey City,2023-03-14
+1218,Christopher Perez,Male,48,Queens,2023-05-01
+1219,Robert Williams,Male,12,Newark,2022-04-09
+1220,Lisa Sanchez,Female,72,New York,2023-08-24
+1221,Emily Moore,Male,86,Brooklyn,2023-02-25
+1222,Daniel Ramirez,F,55,New York,2022-10-22
+1223,Kenneth Martinez,Male,14,Bronx,2022-06-08
+1224,Mark Davis,Male,45,Jersey City,2022-04-28
+1225,Sarah Jackson,Female,55,New York,2023-09-16
+1226,Sarah Smith,Female,35,Staten Island,2022-12-14
+1227,Daniel Smith,Female,19,Newark,2022-03-13
+1228,Elizabeth White,F,4,Brooklyn,2023-06-28
+1229,Susan Gonzalez,Female,59,Jersey City,2022-06-11
+1230,Lisa Martinez,F,42,Brooklyn,2022-02-23
+1231,Elizabeth Garcia,M,7,Brooklyn,2022-10-06
+1232,Donald Perez,Female,63,Yonkers,2023-03-01
+1233,Sarah Miller,M,15,Jersey City,2023-03-17
+1234,Linda Martinez,F,87,Yonkers,2023-06-24
+1235,Karen Johnson,Female,51,New York,2022-01-08
+1236,Susan Martinez,Female,18,Staten Island,2022-10-24
+1237,Christopher Brown,Male,64,Newark,2022-06-29
+1238,William Gonzalez,M,30,Jersey City,2022-03-15
+1239,Betty Ramirez,F,6,Newark,2022-01-20
+1240,Sandra Robinson,Male,41,Newark,2023-08-11
+1241,Betty Thompson,F,54,Staten Island,2022-04-28
+1242,Betty Smith,Male,22,Yonkers,2023-01-06
+1243,Jennifer Wilson,Male,32,Newark,2023-08-27
+1244,Betty Taylor,Male,51,Staten Island,2022-12-14
+1245,Joseph Hernandez,Female,10,Brooklyn,2023-06-28
+1246,Paul Miller,Male,45,Queens,2022-08-30
+1247,Michael Jones,Male,26,Queens,2023-09-09
+1248,Elizabeth Harris,F,10,Queens,2023-10-06
+1249,Ashley Anderson,M,75,Yonkers,2023-11-29
+1250,Andrew Lee,F,80,Jersey City,2023-10-05
+1251,Christopher Jones,Female,9,Yonkers,2023-03-29
+1252,Karen Sanchez,Male,76,New York,2022-12-27
+1253,Paul Williams,Male,60,Yonkers,2022-02-08
+1254,Patricia Lopez,Male,10,Brooklyn,2023-09-22
+1255,Kenneth Taylor,Female,60,New York,2023-04-06
+1256,Andrew Lee,Female,42,Yonkers,2023-05-29
+1257,Elizabeth Johnson,Female,14,Jersey City,2022-03-28
+1258,Paul Lee,Female,6,Bronx,2023-03-25
+1259,Donald Taylor,M,79,Queens,2023-01-08
+1260,Lisa Robinson,Male,50,Newark,2022-12-13
+1261,Kenneth Johnson,F,83,Jersey City,2022-03-09
+1262,Nancy Brown,M,87,Newark,2022-10-18
+1263,Thomas White,F,78,Queens,2022-12-08
+1264,Jennifer Jackson,F,19,Jersey City,2022-11-14
+1265,Betty Jones,M,11,Staten Island,2023-07-27
+1266,Matthew Lee,Male,17,Brooklyn,2023-10-24
+1267,Margaret Taylor,Male,3,Jersey City,2022-11-13
+1268,Barbara Miller,Male,63,Bronx,2022-08-20
+1269,William Jones,Male,38,Brooklyn,2023-06-04
+1270,Steven Clark,F,68,New York,2023-11-09
+1271,Nancy Lewis,M,17,Newark,2022-06-07
+1272,David Garcia,F,80,Queens,2023-03-25
+1273,John Wilson,Male,87,Bronx,2023-03-31
+1274,Michelle Martinez,F,58,Bronx,2023-07-01
+1275,Jessica Martinez,Female,25,Jersey City,2023-11-26
+1276,Andrew Anderson,Female,37,Newark,2023-05-30
+1277,Kimberly Wilson,Female,26,Queens,2022-09-14
+1278,Patricia Lee,Female,48,Brooklyn,2023-06-13
+1279,Linda Martinez,Male,21,Staten Island,2023-04-06
+1280,Paul Jones,Female,12,Bronx,2023-04-07
+1281,Daniel Robinson,Male,54,New York,2023-02-10
+1282,Paul Lopez,Female,50,Brooklyn,2023-01-19
+1283,Joseph Smith,Male,13,Jersey City,2022-05-30
+1284,William Johnson,Male,61,Queens,2023-04-26
+1285,Donald Martin,Male,11,New York,2022-09-20
+1286,Susan Clark,Female,71,Newark,2022-04-24
+1287,Charles Davis,Male,16,New York,2022-09-02
+1288,Anthony Lee,M,59,Brooklyn,2022-04-24
+1289,Ashley Martin,M,3,Bronx,2022-05-28
+1290,Charles Wilson,Male,79,Jersey City,2022-09-04
+1291,Andrew Wilson,Female,86,Brooklyn,2023-06-21
+1292,Lisa Williams,M,70,New York,2023-02-04
+1293,Mark Johnson,F,50,Jersey City,2022-09-17
+1294,Mary Lopez,Male,45,Bronx,2023-11-04
+1295,Michael Harris,M,43,Queens,2022-02-15
+1296,Daniel Moore,Male,83,Queens,2023-04-21
+1297,Mark Lee,Female,18,Brooklyn,2023-04-14
+1298,John Martinez,Female,6,Bronx,2022-02-12
+1299,Christopher Robinson,Male,66,Newark,2023-07-11
+1300,Mark Rodriguez,Male,83,Bronx,2022-10-20
+1301,Daniel Ramirez,Male,84,Jersey City,2022-10-07
+1302,Linda Sanchez,Male,56,Newark,2023-03-27
+1303,Matthew Hernandez,Female,64,Yonkers,2023-01-12
+1304,Kimberly Rodriguez,Male,55,Brooklyn,2023-03-17
+1305,Kenneth Clark,Female,70,Staten Island,2022-11-25
+1306,Michael Williams,Male,85,Staten Island,2022-11-10
+1307,Donald Martin,F,55,Queens,2023-03-31
+1308,Daniel Anderson,Male,46,Newark,2022-10-09
+1309,Patricia Williams,F,82,Newark,2023-01-08
+1310,Paul Sanchez,F,87,Queens,2022-02-01
+1311,Elizabeth Ramirez,M,87,Yonkers,2022-02-05
+1312,William Williams,Female,83,Jersey City,2023-01-06
+1313,Matthew Jackson,Male,78,Queens,2023-11-27
+1314,Donald Lopez,Male,57,Brooklyn,2023-08-11
+1315,William Taylor,Male,51,Jersey City,2023-10-28
+1316,Sarah Davis,Male,4,Queens,2023-05-27
+1317,Kimberly Gonzalez,M,16,Staten Island,2022-09-24
+1318,Donald Miller,M,37,Yonkers,2022-07-24
+1319,Linda Jones,Male,58,Queens,2023-04-01
+1320,Jennifer Sanchez,F,41,Jersey City,2022-03-08
+1321,Emily Moore,Male,39,Queens,2023-10-16
+1322,Barbara Sanchez,Male,66,Bronx,2022-05-05
+1323,Richard Sanchez,Female,31,Yonkers,2022-01-27
+1324,Lisa Moore,M,48,Yonkers,2023-07-19
+1325,William Martin,Male,9,Staten Island,2023-02-12
+1326,Mark Taylor,Female,53,Brooklyn,2022-05-09
+1327,Christopher Lee,Male,58,Yonkers,2023-11-28
+1328,Kimberly Lopez,Female,71,Queens,2022-05-13
+1329,Margaret Taylor,Male,16,Queens,2022-11-08
+1330,David Garcia,Male,29,Jersey City,2023-06-16
+1331,Charles Ramirez,Male,33,Bronx,2023-10-13
+1332,Emily Rodriguez,Female,81,Staten Island,2023-09-22
+1333,Steven Williams,M,83,Queens,2023-08-30
+1334,Donna Jones,Female,85,Jersey City,2023-08-01
+1335,John Clark,Male,11,New York,2023-10-19
+1336,Andrew Rodriguez,F,27,Newark,2023-09-25
+1337,Mary Thomas,F,70,Staten Island,2023-10-20
+1338,Karen Thomas,Female,88,Newark,2022-11-01
+1339,Sandra Williams,F,8,Queens,2023-03-27
+1340,Anthony Thomas,Female,27,Jersey City,2023-09-14
+1341,Elizabeth Hernandez,F,41,Jersey City,2023-02-13
+1342,William Harris,Male,66,Brooklyn,2022-11-23
+1343,Jessica Anderson,Male,35,Yonkers,2022-09-11
+1344,Elizabeth Brown,Male,38,Newark,2023-09-23
+1345,Anthony Davis,Female,42,Jersey City,2022-07-14
+1346,David Thomas,M,60,Yonkers,2022-11-12
+1347,Ashley Smith,Male,51,Yonkers,2022-09-04
+1348,Susan Jackson,Male,7,New York,2022-10-16
+1349,Ashley Martin,F,87,Yonkers,2022-10-20
+1350,Steven Smith,Male,56,Queens,2022-09-28
+1351,Lisa Harris,Female,47,New York,2023-02-15
+1352,Patricia Jackson,M,25,Jersey City,2023-07-21
+1353,Charles Williams,Female,65,Yonkers,2023-07-18
+1354,Sarah Clark,M,88,Brooklyn,2022-05-12
+1355,Michael Gonzalez,Male,44,Jersey City,2022-05-28
+1356,Richard Martin,M,52,New York,2022-02-16
+1357,John Jones,F,43,Yonkers,2023-06-16
+1358,Sandra Jones,M,66,Queens,2022-12-02
+1359,Michelle Hernandez,Female,51,Staten Island,2023-08-31
+1360,Nancy Taylor,M,69,Yonkers,2023-07-31
+1361,Karen Thomas,Male,48,Jersey City,2023-11-21
+1362,Linda Wilson,M,40,New York,2023-09-04
+1363,Mark Rodriguez,F,75,Bronx,2022-02-22
+1364,Donna Thomas,Female,68,Newark,2022-06-01
+1365,Jessica Johnson,M,15,Bronx,2022-01-20
+1366,Donald Hernandez,Female,20,Newark,2022-07-28
+1367,Anthony Taylor,M,61,New York,2022-05-22
+1368,Kimberly Miller,M,42,Yonkers,2023-06-23
+1369,Matthew Hernandez,Female,59,Jersey City,2023-07-14
+1370,Daniel Perez,F,88,Staten Island,2023-09-17
+1371,Mark Miller,Female,36,Staten Island,2022-08-19
+1372,Karen Harris,Male,27,Yonkers,2022-11-21
+1373,Mark Lopez,M,36,Staten Island,2022-05-05
+1374,Andrew Perez,M,49,Newark,2022-12-20
+1375,Elizabeth Martinez,Male,37,Brooklyn,2022-12-21
+1376,Donald Lee,Male,62,Bronx,2022-07-26
+1377,Steven Rodriguez,M,35,Queens,2022-04-22
+1378,Michelle White,M,31,Bronx,2022-02-21
+1379,Kimberly Davis,F,30,New York,2022-04-13
+1380,Anthony Hernandez,F,61,Brooklyn,2023-11-29
+1381,William Smith,M,21,Newark,2023-10-31
+1382,Mark Thomas,F,26,Staten Island,2022-11-25
+1383,Charles Lee,Male,12,Bronx,2023-07-02
+1384,John Robinson,Female,54,Queens,2022-02-07
+1385,Betty Sanchez,Female,24,Staten Island,2022-02-08
+1386,James Martinez,M,78,Brooklyn,2022-12-10
+1387,Charles Anderson,F,70,Yonkers,2022-05-18
+1388,Paul Anderson,Male,25,Brooklyn,2022-12-05
+1389,David White,Female,83,Staten Island,2022-07-10
+1390,James White,Male,38,Bronx,2022-06-29
+1391,Michelle Ramirez,F,52,Newark,2023-06-12
+1392,Christopher Williams,Female,86,Brooklyn,2022-07-09
+1393,William Thomas,Male,32,New York,2022-09-25
+1394,Matthew Davis,Female,35,Jersey City,2022-11-06
+1395,Donna White,M,2,Staten Island,2023-11-01
+1396,Lisa Thompson,Female,8,Brooklyn,2023-04-22
+1397,Karen Garcia,Female,88,Staten Island,2022-05-01
+1398,Charles Lopez,M,29,Bronx,2022-05-17
+1399,Mark Jones,Female,78,Jersey City,2023-03-02
+1400,Emily Robinson,Female,69,Bronx,2022-09-11
+1401,Kenneth Ramirez,Male,68,Yonkers,2023-06-25
+1402,Lisa Williams,M,15,New York,2023-07-15
+1403,Paul Miller,M,69,Queens,2022-06-18
+1404,Christopher Ramirez,M,57,Brooklyn,2023-11-28
+1405,Susan Thompson,M,63,Brooklyn,2023-06-07
+1406,Donald Sanchez,Male,59,Queens,2023-06-10
+1407,Anthony Anderson,M,8,Yonkers,2023-11-20
+1408,Karen White,Male,51,Staten Island,2022-01-04
+1409,Susan Jackson,Male,6,Newark,2022-12-19
+1410,Robert Moore,Male,9,Yonkers,2022-02-02
+1411,Charles Wilson,Female,18,Newark,2023-01-19
+1412,Matthew Anderson,Female,49,Brooklyn,2023-12-01
+1413,Steven Jones,F,45,Brooklyn,2022-07-02
+1414,Steven Gonzalez,M,17,Bronx,2022-01-04
+1415,Mary Martinez,Female,87,Newark,2023-06-29
+1416,Matthew Clark,Female,32,Yonkers,2022-12-21
+1417,Elizabeth Rodriguez,Female,15,New York,2023-11-08
+1418,Anthony Martin,Male,31,Bronx,2022-03-10
+1419,Michael Martin,Male,58,New York,2022-09-08
+1420,John Gonzalez,Female,30,Bronx,2022-02-27
+1421,William Taylor,Male,30,Jersey City,2023-08-15
+1422,Kenneth Harris,F,42,Bronx,2022-11-06
+1423,Elizabeth Perez,M,29,Newark,2022-11-04
+1424,Sarah Johnson,M,76,Queens,2023-10-04
+1425,Margaret Moore,Female,7,Jersey City,2023-10-21
+1426,Matthew Sanchez,M,41,Newark,2023-02-23
+1427,Elizabeth Martinez,Female,24,Yonkers,2022-09-04
+1428,Joseph Martinez,F,19,Yonkers,2022-03-01
+1429,Emily Wilson,Female,72,Queens,2023-02-02
+1430,Jessica Rodriguez,Female,43,Brooklyn,2023-04-06
+1431,Lisa Williams,M,25,New York,2022-10-02
+1432,Matthew Perez,M,78,New York,2022-03-16
+1433,Richard Sanchez,M,86,Bronx,2023-05-06
+1434,Susan Ramirez,Male,39,New York,2022-08-05
+1435,Richard White,Male,62,Bronx,2023-09-11
+1436,Susan Gonzalez,Female,71,Jersey City,2022-10-17
+1437,Matthew Anderson,M,84,Jersey City,2022-11-12
+1438,Thomas Lopez,M,64,Yonkers,2022-04-11
+1439,Mark Harris,Male,27,Jersey City,2022-11-17
+1440,Anthony Johnson,M,29,Queens,2022-01-17
+1441,Thomas Moore,M,75,Newark,2022-10-30
+1442,Elizabeth Miller,Male,30,Newark,2023-08-07
+1443,Jessica Thomas,M,84,Jersey City,2022-09-21
+1444,Ashley White,F,63,Yonkers,2022-06-22
+1445,Daniel Garcia,Female,70,Yonkers,2022-07-08
+1446,Steven Lee,Male,68,New York,2022-03-18
+1447,Patricia Harris,Male,53,Queens,2023-10-08
+1448,Joseph Williams,F,20,New York,2022-08-12
+1449,Paul Anderson,Male,8,Yonkers,2023-11-07
+1450,Ashley Smith,Male,69,Newark,2022-01-13
+1451,Mary Taylor,F,36,Staten Island,2022-01-18
+1452,Paul Clark,F,87,Newark,2022-07-03
+1453,Michael Robinson,Male,68,Queens,2022-09-04
+1454,Richard Martin,M,33,Jersey City,2022-10-01
+1455,Betty Williams,Male,52,Yonkers,2023-08-02
+1456,Jessica Thompson,Female,39,Brooklyn,2023-11-01
+1457,John Williams,Female,49,Newark,2023-07-20
+1458,Mark Johnson,F,2,Queens,2022-03-26
+1459,Ashley Ramirez,Female,83,Jersey City,2023-08-03
+1460,Michael Lewis,M,6,Bronx,2022-08-05
+1461,Andrew Thomas,Male,6,Brooklyn,2023-12-02
+1462,Sarah Lewis,M,73,New York,2022-07-03
+1463,Christopher Smith,Female,76,Queens,2023-02-12
+1464,Robert Martinez,Female,73,Bronx,2023-08-04
+1465,Matthew Perez,M,43,Newark,2022-05-24
+1466,Jennifer Taylor,F,45,New York,2022-04-11
+1467,Margaret Davis,Male,44,Newark,2022-12-01
+1468,Mary Lee,Male,58,Yonkers,2022-08-22
+1469,Daniel Moore,Female,56,Queens,2023-11-28
+1470,Donna Perez,Female,11,Staten Island,2022-09-10
+1471,Robert Williams,Male,20,Newark,2023-10-12
+1472,Elizabeth White,Female,41,Jersey City,2022-04-20
+1473,Jennifer Smith,Male,57,Jersey City,2022-10-04
+1474,Michael Jones,Male,24,Newark,2023-04-05
+1475,Emily Moore,M,53,Brooklyn,2022-01-27
+1476,Jennifer Lopez,M,12,Jersey City,2023-01-30
+1477,James Martinez,Female,50,Brooklyn,2023-07-27
+1478,Jessica Jackson,M,22,Newark,2022-06-23
+1479,William Rodriguez,Male,35,Yonkers,2022-05-30
+1480,Robert Garcia,Female,36,Newark,2022-11-03
+1481,Mark Sanchez,Male,47,Staten Island,2022-09-10
+1482,Ashley Martin,M,26,Yonkers,2022-04-20
+1483,William Martinez,Male,51,Jersey City,2023-09-28
+1484,Matthew Sanchez,Male,57,Jersey City,2023-03-17
+1485,Kenneth Jones,Male,42,Bronx,2023-05-06
+1486,Christopher Garcia,Female,41,Staten Island,2023-10-11
+1487,Ashley Jackson,Female,42,Newark,2022-10-15
+1488,Betty Lopez,Male,73,Bronx,2023-08-30
+1489,Steven Garcia,F,71,New York,2023-04-18
+1490,Susan Anderson,Male,9,Newark,2023-11-21
+1491,Ashley Jones,F,39,Bronx,2022-09-16
+1492,Elizabeth Thompson,Female,49,Brooklyn,2023-04-05
+1493,Kenneth Thomas,M,52,Newark,2023-07-11
+1494,John Sanchez,Male,69,Brooklyn,2022-04-22
+1495,Jessica Perez,F,46,Queens,2023-10-25
+1496,Michelle Johnson,M,83,Newark,2022-12-06
+1497,Margaret Brown,Male,13,Staten Island,2022-08-16
+1498,Paul White,M,72,Bronx,2023-04-02
+1499,Lisa Gonzalez,Female,87,Queens,2022-12-20
+1500,Mary Thomas,Male,38,Newark,2022-03-29
+1501,Linda Clark,F,19,Jersey City,2022-11-16
+1502,Nancy Anderson,Female,67,Yonkers,2022-12-23
+1503,Mark Brown,Female,58,Jersey City,2022-03-10
+1504,Karen Johnson,F,15,New York,2022-12-18
+1505,Michael Perez,Female,32,Queens,2023-07-20
+1506,David Hernandez,M,55,Yonkers,2022-08-26
+1507,Betty Lee,Female,24,Newark,2023-02-10
+1508,Mary White,M,26,Yonkers,2023-08-30
+1509,Margaret Gonzalez,Male,28,Bronx,2022-10-13
+1510,Robert Jackson,Male,69,Queens,2023-01-10
+1511,Christopher Miller,Female,15,Staten Island,2023-11-18
+1512,Ashley Taylor,F,41,Newark,2023-09-18
+1513,Betty Jackson,Male,45,Jersey City,2023-04-14
+1514,Michelle Garcia,F,39,Brooklyn,2023-11-20
+1515,William Hernandez,Male,31,Staten Island,2022-04-30
+1516,Barbara Lopez,F,19,Newark,2023-03-05
+1517,Kenneth Jones,M,50,Newark,2022-07-10
+1518,Ashley Lee,M,83,Queens,2023-07-23
+1519,David Thomas,Male,18,Queens,2022-11-19
+1520,Donald Martin,Male,46,New York,2023-05-12
+1521,William Miller,Female,72,Yonkers,2023-02-23
+1522,Ashley Wilson,F,57,Yonkers,2022-06-21
+1523,Jennifer Jackson,Male,29,Staten Island,2022-02-03
+1524,Sarah Davis,M,37,Queens,2023-04-14
+1525,Andrew White,Female,71,Brooklyn,2023-08-10
+1526,Linda Rodriguez,M,47,New York,2023-03-28
+1527,Steven Miller,Female,14,Bronx,2022-11-01
+1528,John Anderson,Male,45,Brooklyn,2023-03-26
+1529,Linda Harris,Female,27,Jersey City,2023-09-17
+1530,Margaret Garcia,M,18,Bronx,2022-07-31
+1531,Patricia Jackson,Male,69,Staten Island,2023-09-04
+1532,Steven Garcia,Male,38,Staten Island,2023-08-10
+1533,Sarah Ramirez,M,87,Brooklyn,2022-05-19
+1534,Anthony Robinson,Male,36,Queens,2022-05-16
+1535,Jessica Jones,F,42,Bronx,2023-11-24
+1536,Betty Thomas,Female,74,Staten Island,2023-10-05
+1537,Anthony Gonzalez,Female,10,Brooklyn,2023-02-17
+1538,Paul White,Male,48,Yonkers,2023-05-15
+1539,Christopher Jackson,Male,12,Yonkers,2023-10-13
+1540,Daniel Ramirez,Male,69,Newark,2022-08-12
+1541,Margaret Clark,Female,64,Staten Island,2022-11-27
+1542,Charles Hernandez,M,74,Queens,2023-08-03
+1543,Ashley Sanchez,Male,88,New York,2022-02-17
+1544,Michael Lee,Female,3,Brooklyn,2022-06-11
+1545,Donald Anderson,Male,55,Bronx,2022-05-16
+1546,Karen Garcia,Male,12,Jersey City,2022-09-14
+1547,Jennifer Lopez,F,84,Queens,2022-02-23
+1548,Betty Lee,Male,30,Newark,2023-11-03
+1549,Jennifer Thompson,Male,1,Bronx,2023-05-04
+1550,Robert Jones,M,29,Yonkers,2022-01-10
+1551,James Thompson,Male,16,Newark,2022-05-16
+1552,Mark Williams,Female,50,Brooklyn,2022-04-15
+1553,Michael Hernandez,Male,39,Queens,2023-01-27
+1554,William Lee,F,19,Brooklyn,2023-06-28
+1555,Andrew Smith,M,84,Queens,2023-03-27
+1556,Daniel White,Female,81,Queens,2023-02-26
+1557,Michelle Perez,Female,28,Brooklyn,2022-04-13
+1558,William Harris,Male,76,Newark,2022-12-26
+1559,Margaret Hernandez,Female,32,Staten Island,2023-10-23
+1560,Jennifer Davis,M,77,Staten Island,2022-01-28
+1561,Karen Miller,M,78,Bronx,2023-02-06
+1562,Charles Lee,Male,31,Yonkers,2023-01-31
+1563,Linda Davis,Female,82,Brooklyn,2023-06-25
+1564,James Lopez,Male,17,Newark,2023-08-06
+1565,Anthony Lopez,M,88,Queens,2023-04-28
+1566,Robert Smith,M,9,New York,2022-09-26
+1567,Susan Johnson,Male,51,Staten Island,2023-10-06
+1568,Paul Harris,Female,55,Newark,2022-03-26
+1569,Steven Moore,M,20,Staten Island,2022-03-27
+1570,Karen Williams,M,27,Queens,2023-07-04
+1571,Christopher Gonzalez,M,82,Brooklyn,2022-11-14
+1572,Margaret White,Female,8,Bronx,2022-03-30
+1573,Margaret Brown,Female,79,New York,2022-11-13
+1574,Barbara Brown,Male,18,New York,2022-06-17
+1575,Ashley Lopez,M,67,Staten Island,2022-06-20
+1576,Lisa Jones,F,35,Brooklyn,2022-01-31
+1577,Nancy Sanchez,Female,35,Brooklyn,2022-09-27
+1578,Andrew Lee,Male,64,Yonkers,2023-06-08
+1579,Lisa Johnson,Female,73,Queens,2023-01-12
+1580,David Rodriguez,Male,74,Brooklyn,2022-08-22
+1581,Paul Smith,Male,2,Bronx,2022-02-17
+1582,Mark Lopez,Female,20,Queens,2022-02-06
+1583,Emily Sanchez,F,84,Newark,2022-08-18
+1584,Christopher Davis,Female,41,Staten Island,2022-03-21
+1585,Andrew Lopez,Male,65,New York,2022-07-03
+1586,Joseph Sanchez,M,6,Newark,2022-03-12
+1587,Sandra Ramirez,Male,40,Jersey City,2022-03-30
+1588,Emily Anderson,Male,48,Bronx,2022-10-26
+1589,Andrew Sanchez,Male,80,Bronx,2023-04-21
+1590,Lisa Jackson,Female,26,Bronx,2022-06-04
+1591,James Robinson,Female,4,Bronx,2023-07-09
+1592,Daniel Lee,F,2,Jersey City,2022-01-02
+1593,Matthew Ramirez,F,40,Brooklyn,2022-07-30
+1594,Kimberly Davis,Female,63,New York,2022-05-26
+1595,Sarah Williams,Male,30,Newark,2023-01-17
+1596,Sandra White,Male,75,Brooklyn,2023-06-02
+1597,William Lee,Female,10,New York,2023-03-22
+1598,William Davis,Male,34,Jersey City,2023-02-07
+1599,Christopher Hernandez,Female,35,Bronx,2022-03-18
+1600,Richard Jones,M,14,Queens,2022-04-19
+1601,David Anderson,Female,41,Newark,2022-05-04
+1602,Steven Lopez,Female,58,Staten Island,2023-04-20
+1603,Thomas Ramirez,Male,12,Queens,2022-11-08
+1604,Kenneth Johnson,Female,42,Queens,2022-04-04
+1605,Jessica Lopez,Female,66,New York,2023-11-25
+1606,Karen Rodriguez,Female,4,Newark,2023-04-09
+1607,Emily White,M,32,Brooklyn,2023-04-19
+1608,Michael Sanchez,Female,16,New York,2022-03-05
+1609,Joseph Jones,Female,52,Jersey City,2023-10-08
+1610,Jennifer Jackson,M,34,Brooklyn,2022-01-23
+1611,Robert Miller,F,57,Queens,2022-04-05
+1612,Nancy Brown,Male,60,New York,2022-06-22
+1613,Andrew Wilson,F,51,Yonkers,2022-01-31
+1614,Matthew Perez,Female,23,Jersey City,2022-08-08
+1615,Barbara Rodriguez,Male,58,Queens,2022-02-05
+1616,Michelle Martin,M,32,Staten Island,2023-05-26
+1617,Anthony Lewis,M,62,New York,2022-03-31
+1618,Sarah Gonzalez,Female,54,Bronx,2023-10-21
+1619,Kimberly Davis,F,70,New York,2023-01-27
+1620,Daniel Thomas,M,63,Jersey City,2023-08-03
+1621,Paul Hernandez,Female,35,Queens,2022-01-27
+1622,Christopher Martin,Female,4,Staten Island,2022-03-01
+1623,Mark Taylor,Male,75,Bronx,2022-06-13
+1624,Michael Davis,F,31,Staten Island,2023-07-01
+1625,Patricia Harris,Female,74,Newark,2022-12-30
+1626,Barbara Garcia,Female,76,Jersey City,2023-01-03
+1627,Donna Smith,F,46,Queens,2023-07-31
+1628,Richard Clark,Female,70,Staten Island,2022-06-29
+1629,Ashley Johnson,Male,8,Bronx,2023-09-09
+1630,Joseph Smith,M,62,New York,2022-12-06
+1631,Michelle Miller,Female,44,Queens,2022-11-28
+1632,Patricia Smith,Female,76,Queens,2022-04-24
+1633,Kimberly Ramirez,Male,10,Jersey City,2023-11-10
+1634,Betty Jackson,Male,44,Staten Island,2022-11-27
+1635,William Garcia,F,56,Yonkers,2023-10-27
+1636,Christopher Garcia,F,72,Jersey City,2022-08-17
+1637,Donna Clark,Female,49,Staten Island,2022-10-29
+1638,William Garcia,F,1,Newark,2023-08-05
+1639,John Garcia,M,41,Bronx,2023-10-17
+1640,Andrew Brown,Female,19,Jersey City,2022-03-21
+1641,Jessica Lopez,Male,22,Brooklyn,2023-11-18
+1642,Nancy Anderson,Male,34,Bronx,2022-09-13
+1643,Robert Lopez,Male,14,New York,2022-02-19
+1644,Matthew Anderson,F,54,Queens,2023-02-28
+1645,Ashley Lewis,Female,45,Newark,2022-04-14
+1646,Mark Sanchez,M,84,Bronx,2022-06-16
+1647,Donald Williams,Male,38,New York,2022-11-23
+1648,Thomas Brown,Male,44,Queens,2023-01-20
+1649,David White,Male,71,Brooklyn,2022-12-13
+1650,Kenneth Martin,Female,4,Newark,2023-11-01
+1651,David Martin,Female,21,New York,2022-04-14
+1652,Nancy Miller,Female,53,Staten Island,2023-11-08
+1653,Charles Martinez,Female,13,New York,2023-02-07
+1654,Andrew Moore,Female,20,New York,2023-01-05
+1655,James Wilson,Male,38,Yonkers,2022-07-24
+1656,Michael Smith,Female,22,Staten Island,2022-03-25
+1657,Mark Ramirez,Male,40,Newark,2023-04-28
+1658,Ashley Lewis,F,34,Brooklyn,2023-10-20
+1659,Steven Gonzalez,Female,48,Newark,2023-01-14
+1660,Barbara Anderson,Male,34,Yonkers,2023-04-22
+1661,Thomas Davis,Male,73,New York,2022-06-04
+1662,Michael Williams,F,45,Newark,2023-08-27
+1663,Joseph Moore,Male,50,Newark,2023-07-03
+1664,Mark Jackson,Female,61,Staten Island,2022-03-22
+1665,Betty Lewis,F,5,Queens,2022-05-04
+1666,Donald Garcia,Female,28,Bronx,2022-05-10
+1667,John Wilson,Male,88,Newark,2022-07-26
+1668,Elizabeth Clark,M,34,Jersey City,2022-03-10
+1669,Jennifer Gonzalez,M,51,Jersey City,2022-10-10
+1670,Kimberly Anderson,Male,80,Newark,2022-04-26
+1671,Anthony Jones,Female,73,Brooklyn,2022-04-19
+1672,Andrew Harris,Male,37,Jersey City,2023-02-25
+1673,Thomas Gonzalez,F,63,Yonkers,2022-02-08
+1674,Barbara Rodriguez,Female,19,Newark,2022-02-09
+1675,Betty Lewis,Male,31,New York,2023-05-02
+1676,Sarah Lewis,Male,3,Jersey City,2022-11-07
+1677,Karen Rodriguez,Female,88,Brooklyn,2022-08-22
+1678,William Martinez,F,57,Jersey City,2022-10-03
+1679,Anthony Martin,F,12,Bronx,2023-03-29
+1680,Susan Robinson,Female,63,Jersey City,2022-02-27
+1681,Paul Sanchez,Female,9,Staten Island,2023-06-03
+1682,Betty Jones,M,73,New York,2022-06-27
+1683,Richard Lewis,Female,8,Bronx,2022-02-03
+1684,Sandra Johnson,Male,26,Staten Island,2023-01-13
+1685,Sandra Taylor,Female,82,Brooklyn,2023-11-29
+1686,Mary Davis,Male,63,Yonkers,2022-07-01
+1687,Mark Jackson,M,45,Jersey City,2022-06-17
+1688,Thomas White,F,12,Staten Island,2022-01-29
+1689,Matthew Johnson,Female,74,Bronx,2022-08-15
+1690,Joseph Perez,Female,35,Newark,2023-06-10
+1691,Mary Ramirez,F,2,Yonkers,2022-05-16
+1692,Barbara Martin,Male,29,Staten Island,2023-09-15
+1693,Karen Thompson,F,83,Staten Island,2023-03-10
+1694,Matthew Ramirez,Male,59,Staten Island,2022-08-12
+1695,Sandra Martinez,F,67,Newark,2023-08-22
+1696,Michael Smith,M,85,Jersey City,2023-07-29
+1697,Kenneth Martin,Male,39,Brooklyn,2023-05-09
+1698,Robert Hernandez,Male,82,Jersey City,2022-10-11
+1699,Thomas Lee,F,84,Staten Island,2022-07-12
+1700,Elizabeth Taylor,Female,8,Newark,2023-11-08
+1701,Christopher Perez,Female,4,Yonkers,2022-10-30
+1702,Thomas Robinson,Female,52,Newark,2022-02-06
+1703,Donna Thompson,M,25,Jersey City,2022-08-16
+1704,Steven Lee,Female,86,Jersey City,2023-06-04
+1705,Karen Ramirez,Female,85,Queens,2022-10-28
+1706,Michael Thomas,Female,34,Queens,2023-11-28
+1707,Nancy Lee,Male,29,Jersey City,2022-08-17
+1708,Karen Wilson,Male,48,Staten Island,2023-08-23
+1709,Charles Anderson,Male,61,New York,2023-10-12
+1710,Donna Jackson,M,10,Yonkers,2022-07-19
+1711,Paul Brown,F,49,Staten Island,2023-02-28
+1712,Patricia Ramirez,Female,18,Bronx,2022-12-17
+1713,Anthony Jackson,Female,19,Jersey City,2022-07-04
+1714,Jennifer Thomas,Male,81,Queens,2022-11-17
+1715,Patricia Smith,Female,36,Bronx,2022-06-22
+1716,Andrew Harris,Female,63,Brooklyn,2022-05-13
+1717,Michelle Wilson,F,55,Newark,2023-03-16
+1718,Mark Gonzalez,Male,5,Bronx,2023-01-18
+1719,James Lewis,Male,68,Bronx,2022-01-19
+1720,James Lee,F,32,Bronx,2022-12-19
+1721,Karen Jones,Male,50,Staten Island,2022-06-21
+1722,Robert Clark,Male,39,Staten Island,2023-04-12
+1723,Kimberly Martin,M,44,Newark,2022-05-18
+1724,Nancy Lewis,Female,46,Bronx,2022-06-18
+1725,Betty Smith,Female,29,Queens,2022-08-05
+1726,Mary Jackson,M,22,Brooklyn,2023-01-11
+1727,John Gonzalez,F,33,New York,2023-09-01
+1728,Patricia Perez,Male,84,New York,2022-02-19
+1729,Linda Wilson,Female,49,Brooklyn,2023-07-15
+1730,Thomas Thomas,F,20,Bronx,2023-10-08
+1731,James Martinez,Female,85,Brooklyn,2023-11-10
+1732,Kimberly Rodriguez,M,78,Queens,2023-03-05
+1733,Michael Taylor,F,80,Brooklyn,2022-10-17
+1734,Linda Sanchez,Male,64,Bronx,2023-09-16
+1735,Richard Harris,Male,67,Bronx,2023-01-02
+1736,Anthony Martinez,Female,6,Yonkers,2022-08-01
+1737,Mark Hernandez,Female,1,New York,2023-11-19
+1738,Jennifer Robinson,Male,74,Yonkers,2022-06-02
+1739,Jennifer Harris,M,10,Brooklyn,2022-09-20
+1740,Joseph Anderson,Male,34,Yonkers,2022-02-21
+1741,Michael Clark,Female,6,Staten Island,2023-01-04
+1742,Christopher Wilson,F,15,Brooklyn,2022-02-16
+1743,James Ramirez,Female,85,Queens,2022-12-03
+1744,Daniel Lewis,Female,80,Staten Island,2022-04-06
+1745,Lisa Clark,Male,24,Brooklyn,2023-02-15
+1746,Betty Anderson,Male,50,Yonkers,2023-03-08
+1747,David Brown,Female,8,Queens,2022-04-17
+1748,Anthony Robinson,M,62,Yonkers,2022-07-05
+1749,Michelle Gonzalez,Male,79,New York,2023-12-02
+1750,William Thomas,Female,15,Newark,2023-03-28
+1751,John Williams,Male,84,Jersey City,2022-01-13
+1752,Kimberly Harris,F,74,Bronx,2023-11-17
+1753,Nancy Taylor,M,80,Brooklyn,2023-03-20
+1754,Jessica Thomas,Male,85,Newark,2022-06-02
+1755,Emily Lewis,M,7,New York,2023-10-21
+1756,David Taylor,Female,64,Queens,2022-03-18
+1757,Ashley Hernandez,Female,43,Staten Island,2022-02-21
+1758,Paul Davis,M,83,Newark,2023-02-17
+1759,Jessica Williams,Female,57,Yonkers,2022-04-01
+1760,Ashley Anderson,Male,16,Yonkers,2023-11-01
+1761,Mary Brown,Female,53,New York,2023-07-25
+1762,Emily Smith,Male,78,Staten Island,2023-06-05
+1763,Emily Miller,F,86,Yonkers,2022-12-16
+1764,Lisa Clark,Male,29,Yonkers,2022-12-06
+1765,Emily Harris,M,77,Yonkers,2023-11-04
+1766,Lisa Thompson,Female,15,Brooklyn,2023-11-06
+1767,Joseph Smith,Male,46,Staten Island,2023-07-15
+1768,Kimberly Lopez,F,14,New York,2022-06-18
+1769,Ashley Jones,F,53,Brooklyn,2022-09-18
+1770,Michelle Miller,Female,16,Newark,2022-08-09
+1771,Sandra Clark,Female,44,Brooklyn,2023-03-01
+1772,John Robinson,F,87,Brooklyn,2023-04-07
+1773,Sandra Perez,M,65,Queens,2023-05-26
+1774,James Taylor,F,7,Newark,2023-08-23
+1775,Mark Robinson,M,23,Queens,2022-05-12
+1776,Michael Gonzalez,F,77,Jersey City,2023-06-01
+1777,Matthew Wilson,M,32,Staten Island,2023-02-12
+1778,Nancy Martinez,Female,18,Queens,2023-02-27
+1779,Kenneth Thompson,F,66,Staten Island,2023-07-15
+1780,Christopher Thompson,F,71,Bronx,2022-07-25
+1781,Susan Martin,F,38,Jersey City,2023-11-20
+1782,William Thompson,F,23,Jersey City,2022-04-29
+1783,Daniel Moore,Female,75,Newark,2023-11-22
+1784,Steven Martinez,Female,2,Brooklyn,2022-01-26
+1785,Matthew Jones,Male,86,New York,2022-07-24
+1786,Sarah Harris,Female,37,Staten Island,2022-05-30
+1787,Patricia Thompson,Male,27,New York,2023-01-03
+1788,Donald Brown,M,87,Bronx,2023-10-25
+1789,Emily Gonzalez,Female,66,Staten Island,2023-11-12
+1790,Patricia Robinson,Female,50,Newark,2022-11-17
+1791,Emily Johnson,Male,33,Bronx,2023-09-28
+1792,Donald Clark,Female,82,Jersey City,2023-08-26
+1793,Steven White,M,26,Bronx,2022-10-29
+1794,Donald Garcia,F,10,Queens,2022-06-27
+1795,Paul Brown,Female,6,Newark,2022-10-13
+1796,Emily Rodriguez,Female,21,Staten Island,2022-01-06
+1797,Nancy Anderson,F,20,New York,2022-06-07
+1798,Christopher Martin,Male,81,Staten Island,2023-05-18
+1799,Andrew Moore,Male,10,Jersey City,2023-06-23
+1800,Joseph Garcia,M,9,Queens,2023-03-02
+1801,Steven Moore,Female,12,Jersey City,2022-08-15
+1802,Susan Perez,Male,43,Jersey City,2022-10-28
+1803,Susan Harris,M,68,Yonkers,2023-07-29
+1804,James Brown,F,45,Yonkers,2022-09-04
+1805,Michelle Robinson,M,32,New York,2023-11-30
+1806,Christopher Gonzalez,Male,50,Staten Island,2023-07-08
+1807,Charles Smith,M,48,Yonkers,2023-05-14
+1808,John Martinez,F,25,Jersey City,2023-06-11
+1809,Jennifer Brown,Female,69,New York,2023-10-04
+1810,Robert Miller,F,81,Bronx,2023-03-11
+1811,Michael Miller,M,56,Brooklyn,2022-06-07
+1812,Mary Anderson,F,43,New York,2022-03-31
+1813,Robert Johnson,Female,33,Brooklyn,2023-08-12
+1814,Joseph Robinson,Male,53,Newark,2023-04-07
+1815,Betty Wilson,Male,3,Newark,2023-11-21
+1816,Linda Moore,Male,83,Brooklyn,2023-08-23
+1817,John Thompson,Male,46,Brooklyn,2022-10-24
+1818,Karen Martin,Male,37,Yonkers,2023-01-26
+1819,Betty Clark,F,4,Yonkers,2022-06-10
+1820,Steven Davis,Female,51,Staten Island,2023-10-12
+1821,Elizabeth Martinez,F,83,Jersey City,2022-01-12
+1822,Emily Ramirez,M,19,Brooklyn,2022-02-12
+1823,James Jackson,M,51,Brooklyn,2022-11-09
+1824,Susan White,F,45,Bronx,2023-02-27
+1825,Paul Jones,Female,24,Bronx,2023-09-24
+1826,Thomas Miller,Male,24,New York,2023-07-17
+1827,Sandra Lee,M,10,Staten Island,2023-11-19
+1828,Robert Rodriguez,Male,26,Yonkers,2022-12-05
+1829,Daniel Jones,F,84,Bronx,2022-04-13
+1830,Charles Martin,Male,25,Jersey City,2023-05-13
+1831,Donald Hernandez,M,85,Staten Island,2023-08-22
+1832,Elizabeth Jackson,M,47,Jersey City,2023-03-15
+1833,David Smith,Male,32,Bronx,2023-10-19
+1834,Margaret Rodriguez,Male,18,Jersey City,2023-05-07
+1835,Sandra Anderson,Male,40,Yonkers,2023-07-19
+1836,Michael Garcia,F,78,Brooklyn,2022-10-15
+1837,William Lewis,M,26,Staten Island,2023-10-04
+1838,Robert White,Male,3,New York,2023-08-19
+1839,Donna Gonzalez,M,28,New York,2023-07-19
+1840,Thomas Moore,M,61,Queens,2023-01-10
+1841,Betty Davis,M,38,Queens,2023-04-21
+1842,Paul Taylor,Male,51,Jersey City,2023-05-30
+1843,James Perez,Female,79,Queens,2023-06-11
+1844,William Anderson,Female,23,Queens,2023-05-11
+1845,Daniel Johnson,Female,63,Bronx,2022-03-06
+1846,Thomas Lopez,Female,6,Bronx,2023-06-15
+1847,Lisa Gonzalez,Female,59,New York,2022-02-10
+1848,Christopher Brown,F,67,Staten Island,2022-09-27
+1849,Donna Moore,M,23,Newark,2023-11-01
+1850,Matthew Lopez,M,84,Brooklyn,2023-06-14
+1851,Thomas Gonzalez,Female,67,Newark,2022-12-28
+1852,Daniel Thomas,Female,78,New York,2023-05-29
+1853,William Anderson,Female,30,Brooklyn,2023-06-11
+1854,Sarah Miller,Female,24,Queens,2023-01-06
+1855,Kenneth Thompson,Male,85,Bronx,2023-03-01
+1856,Nancy White,Male,62,Yonkers,2023-05-06
+1857,Susan Jackson,Female,83,Newark,2022-01-23
+1858,Jessica Johnson,Female,74,Queens,2022-05-18
+1859,Paul Johnson,M,19,New York,2022-06-20
+1860,Thomas Robinson,Female,67,Newark,2023-09-06
+1861,Andrew Lee,Male,85,Staten Island,2022-03-29
+1862,Susan Anderson,M,61,Yonkers,2022-06-24
+1863,Joseph Clark,Female,77,Queens,2023-08-20
+1864,Barbara Martin,F,66,Staten Island,2022-06-21
+1865,Nancy Robinson,Female,77,Brooklyn,2022-08-24
+1866,Matthew Gonzalez,Female,14,New York,2022-07-27
+1867,Kimberly Ramirez,M,88,Newark,2022-06-03
+1868,Kenneth Brown,Female,61,New York,2023-06-29
+1869,Paul Harris,Male,12,Yonkers,2023-11-07
+1870,William Lewis,M,70,New York,2023-11-26
+1871,Margaret Taylor,Female,48,New York,2023-06-27
+1872,Margaret Davis,Female,49,Jersey City,2023-08-27
+1873,Andrew Brown,Female,18,Staten Island,2023-05-04
+1874,Joseph Robinson,Male,37,Newark,2022-09-21
+1875,Richard Smith,F,1,Brooklyn,2023-06-17
+1876,James Gonzalez,F,27,Jersey City,2023-02-23
+1877,Lisa Brown,Female,55,Staten Island,2022-09-25
+1878,Steven Wilson,M,47,Staten Island,2023-11-28
+1879,Betty Harris,Female,53,Yonkers,2022-07-03
+1880,Lisa Moore,M,62,Staten Island,2022-11-11
+1881,Andrew Lopez,F,51,Queens,2023-11-07
+1882,Linda White,Female,58,Queens,2022-04-13
+1883,Susan Taylor,Female,44,New York,2022-06-14
+1884,Matthew Lee,Male,12,Queens,2023-04-28
+1885,Kenneth Wilson,Male,9,Staten Island,2022-08-16
+1886,Lisa Williams,M,5,Newark,2023-02-15
+1887,Michelle Lee,M,37,New York,2022-06-29
+1888,Ashley Anderson,Male,26,Staten Island,2022-07-19
+1889,John Sanchez,M,66,Bronx,2023-09-22
+1890,David Perez,Male,47,Bronx,2023-11-02
+1891,James Garcia,Male,36,Newark,2022-12-28
+1892,Betty Gonzalez,M,26,New York,2022-03-12
+1893,Jennifer Moore,Male,72,Jersey City,2022-12-22
+1894,Sarah Davis,M,25,Yonkers,2023-02-18
+1895,Andrew Smith,Male,23,Newark,2023-06-03
+1896,Michael Moore,Male,65,Staten Island,2022-12-15
+1897,Linda Sanchez,M,33,Staten Island,2023-03-30
+1898,Matthew Jackson,Female,32,Jersey City,2023-04-15
+1899,Sandra Lewis,M,4,Yonkers,2022-04-30
+1900,Thomas Williams,Female,82,Bronx,2023-11-25
+1901,Joseph Sanchez,Male,53,Jersey City,2023-06-13
+1902,Steven Smith,F,34,Bronx,2022-10-22
+1903,Jennifer Gonzalez,F,44,Brooklyn,2023-07-22
+1904,Barbara Thomas,Male,46,Bronx,2023-08-11
+1905,Sarah Garcia,F,88,Bronx,2023-05-26
+1906,Richard Davis,F,31,Staten Island,2022-07-31
+1907,Joseph Miller,Female,80,Jersey City,2022-06-09
+1908,Michael Brown,Male,87,Yonkers,2023-09-21
+1909,James Harris,M,6,Yonkers,2023-01-16
+1910,Michelle Hernandez,Female,74,Staten Island,2023-05-18
+1911,Barbara Harris,M,36,Newark,2022-08-16
+1912,Andrew Jones,Male,68,Newark,2023-05-05
+1913,Steven Johnson,M,45,Newark,2022-06-28
+1914,Sandra Brown,F,67,Yonkers,2022-11-20
+1915,James Smith,F,27,Newark,2023-08-18
+1916,Michael Hernandez,Male,79,Staten Island,2022-07-11
+1917,Emily Rodriguez,Female,35,Yonkers,2023-09-20
+1918,Nancy Lopez,Female,64,Newark,2022-08-04
+1919,Anthony Thompson,Male,47,Newark,2022-10-14
+1920,Donald Garcia,M,17,Bronx,2022-04-13
+1921,Sarah Sanchez,Female,72,Newark,2023-01-26
+1922,Richard Jones,F,20,Yonkers,2022-01-10
+1923,Barbara Wilson,Female,18,Jersey City,2023-05-14
+1924,Karen Rodriguez,M,73,New York,2023-02-12
+1925,Michael Thompson,Female,8,Bronx,2022-09-18
+1926,Mark Clark,F,13,Yonkers,2022-12-09
+1927,Thomas Lopez,Male,72,Staten Island,2022-12-19
+1928,Mary Wilson,Male,45,Bronx,2023-08-14
+1929,Andrew Lee,F,69,Queens,2022-10-19
+1930,Daniel Hernandez,F,66,Yonkers,2023-04-03
+1931,Jennifer Gonzalez,M,37,Yonkers,2023-10-09
+1932,Elizabeth Ramirez,Female,82,Jersey City,2023-03-08
+1933,Michelle Jackson,Female,10,Brooklyn,2022-06-15
+1934,Nancy Davis,Male,41,Staten Island,2022-10-01
+1935,Kenneth Lee,Female,35,Yonkers,2023-01-07
+1936,Donna Taylor,Female,53,Queens,2022-07-08
+1937,Mary Jones,F,31,Staten Island,2022-03-23
+1938,Susan Garcia,Female,14,Brooklyn,2022-03-07
+1939,Mark Moore,Male,4,Newark,2023-06-21
+1940,Jennifer Brown,Male,80,Queens,2022-03-28
+1941,Matthew Martinez,Female,32,Staten Island,2023-03-30
+1942,William Jones,M,22,New York,2022-02-05
+1943,Daniel Ramirez,Male,61,Yonkers,2023-07-08
+1944,Sarah Moore,Female,18,Queens,2023-08-29
+1945,Kenneth Anderson,F,82,Newark,2023-06-21
+1946,Steven Martinez,Male,62,Bronx,2022-04-02
+1947,Donald Martinez,Male,53,Staten Island,2022-06-09
+1948,Karen Smith,Male,67,Queens,2022-12-19
+1949,Charles Thomas,M,2,Yonkers,2023-05-04
+1950,Karen Smith,Female,38,Bronx,2022-01-08
+1951,Emily Lopez,Female,53,Newark,2023-02-09
+1952,Jessica Garcia,F,83,Newark,2023-01-23
+1953,Joseph Rodriguez,Male,55,Bronx,2023-06-14
+1954,Michelle Sanchez,F,88,Staten Island,2022-10-19
+1955,Steven Sanchez,Male,53,Bronx,2022-03-12
+1956,Barbara Jones,Male,15,Yonkers,2023-09-25
+1957,Donald Rodriguez,F,80,Yonkers,2022-07-12
+1958,Christopher Smith,Female,7,New York,2022-07-10
+1959,Michael Martinez,Male,17,Yonkers,2022-01-09
+1960,Joseph Williams,Female,2,Yonkers,2022-08-11
+1961,Nancy Wilson,Male,64,Jersey City,2023-04-20
+1962,John Hernandez,Male,19,New York,2022-09-30
+1963,Betty Williams,M,61,Queens,2022-07-16
+1964,Thomas Clark,Female,2,Brooklyn,2022-09-12
+1965,Matthew Harris,Female,32,New York,2022-07-23
+1966,Sandra White,Male,67,Bronx,2023-04-30
+1967,Matthew Perez,Male,42,Queens,2023-10-07
+1968,John White,M,67,Brooklyn,2022-09-17
+1969,Mark Lee,Male,26,Jersey City,2022-02-23
+1970,Susan Brown,Female,82,Newark,2022-11-29
+1971,James Garcia,Male,75,Brooklyn,2023-02-10
+1972,Jessica Smith,Male,75,Yonkers,2023-09-03
+1973,Elizabeth Lopez,Male,32,Queens,2023-05-27
+1974,Jennifer Perez,M,44,New York,2022-03-03
+1975,Daniel Lee,Female,69,Brooklyn,2022-05-09
+1976,Ashley Davis,Male,72,Jersey City,2023-03-26
+1977,Richard Smith,F,49,Jersey City,2022-05-18
+1978,Thomas Lewis,Male,63,Yonkers,2023-07-27
+1979,Charles Moore,F,63,Bronx,2023-08-04
+1980,Barbara Moore,Male,42,Yonkers,2022-10-09
+1981,Kenneth Robinson,M,21,Brooklyn,2023-06-28
+1982,Elizabeth Anderson,Male,34,Jersey City,2023-04-10
+1983,James Harris,F,65,Newark,2022-07-09
+1984,Mary Martin,Male,80,Bronx,2022-11-25
+1985,Robert Perez,M,50,Bronx,2023-06-21
+1986,Ashley Harris,M,20,Staten Island,2022-11-27
+1987,Anthony Lee,Male,15,Brooklyn,2023-06-20
+1988,Robert Johnson,Female,23,New York,2022-07-26
+1989,Michael Thomas,Female,13,New York,2023-08-08
+1990,Matthew Perez,Female,68,Staten Island,2022-02-20
+1991,Lisa Davis,M,10,New York,2022-08-02
+1992,Ashley Robinson,Male,60,New York,2023-01-05
+1993,Emily White,Female,48,New York,2023-09-24
+1994,Sarah Taylor,Male,10,Staten Island,2022-03-21
+1995,Susan Taylor,Male,13,Bronx,2023-06-29
+1996,Matthew Miller,Female,68,Bronx,2023-08-07
+1997,Barbara Moore,F,72,Newark,2022-04-19
+1998,Andrew Lopez,F,59,Newark,2022-04-17
+1999,David Sanchez,Female,71,Newark,2023-06-01
+2000,Nancy Perez,Female,69,Yonkers,2022-12-27
+2001,Christopher Moore,Male,48,Newark,2023-10-11
+2002,Margaret Clark,F,42,Bronx,2023-07-31
+2003,Steven Miller,Female,71,Staten Island,2023-01-04
+2004,Donald Anderson,Female,1,New York,2022-10-19
+2005,Kenneth Smith,M,18,Staten Island,2022-01-07
+2006,Karen Davis,Female,41,New York,2022-10-10
+2007,Emily Taylor,M,74,Queens,2022-04-07
+2008,John Anderson,Male,20,Queens,2022-09-29
+2009,Lisa Lewis,M,32,Bronx,2022-09-20
+2010,Karen Williams,M,52,Bronx,2022-03-21
+2011,Christopher Sanchez,Female,23,Yonkers,2023-08-14
+2012,Michael Martin,F,39,New York,2023-08-14
+2013,Matthew Williams,Male,43,Jersey City,2023-03-21
+2014,Anthony Robinson,Male,30,New York,2023-10-12
+2015,Matthew Johnson,Male,68,New York,2022-11-23
+2016,Steven Jackson,Female,42,Bronx,2022-06-06
+2017,Patricia Perez,F,51,Yonkers,2023-09-02
+2018,Andrew Taylor,Male,29,Newark,2022-10-24
+2019,Betty Jones,Female,44,Brooklyn,2023-05-03
+2020,Andrew White,Male,71,Newark,2022-09-26
+2021,Jennifer Gonzalez,M,56,Queens,2022-05-19
+2022,Mark Moore,Female,63,Newark,2023-10-30
+2023,Andrew Miller,M,79,Bronx,2022-09-06
+2024,Robert Rodriguez,Female,42,Brooklyn,2022-04-26
+2025,Anthony Wilson,Male,45,Bronx,2022-11-25
+2026,Daniel Martin,F,4,Staten Island,2022-06-23
+2027,Daniel Martin,Female,80,Queens,2023-03-28
+2028,John Robinson,Female,26,Jersey City,2022-06-09
+2029,Jennifer Brown,F,7,Bronx,2023-09-28
+2030,Elizabeth Ramirez,Male,2,Jersey City,2022-04-24
+2031,Karen Anderson,Female,3,Jersey City,2022-08-03
+2032,Steven Miller,Female,70,Staten Island,2023-07-16
+2033,Mark Martin,F,19,New York,2023-01-21
+2034,Donna Lewis,F,68,New York,2022-09-19
+2035,David Johnson,Male,26,Staten Island,2022-02-24
+2036,Sandra Lee,Male,9,Newark,2023-11-08
+2037,Sarah Perez,F,47,Brooklyn,2022-01-20
+2038,Charles Ramirez,F,50,Bronx,2023-01-25
+2039,Paul Thompson,Male,41,Yonkers,2023-09-04
+2040,Steven Williams,Female,26,Yonkers,2023-07-29
+2041,Mary Johnson,Female,68,Staten Island,2022-12-08
+2042,Ashley Gonzalez,F,21,New York,2022-12-22
+2043,Daniel Lopez,F,39,Bronx,2023-05-29
+2044,Sarah Sanchez,Male,81,Staten Island,2023-02-01
+2045,Mary Moore,Male,29,Queens,2022-12-16
+2046,Betty Perez,Female,12,Newark,2023-06-18
+2047,Michelle Ramirez,F,88,Bronx,2023-03-04
+2048,Jessica Jackson,Female,55,Staten Island,2023-09-12
+2049,Nancy Anderson,M,17,Bronx,2023-10-31
+2050,William Jackson,M,88,Bronx,2022-05-22
+2051,Karen Thompson,F,68,Queens,2023-03-17
+2052,Elizabeth Lee,M,21,Jersey City,2022-03-11
+2053,Emily Moore,F,16,Queens,2022-11-22
+2054,Elizabeth White,Male,41,Newark,2023-02-26
+2055,Karen Anderson,F,82,Staten Island,2022-06-05
+2056,Richard Brown,Female,24,New York,2023-09-19
+2057,Michelle Rodriguez,M,73,Bronx,2023-09-03
+2058,Joseph Davis,F,4,Jersey City,2022-03-23
+2059,Mark Jones,M,78,Yonkers,2023-10-28
+2060,Lisa Garcia,Female,63,Yonkers,2022-05-21
+2061,David Miller,Female,5,Newark,2022-01-16
+2062,Sarah Wilson,Female,86,Bronx,2022-07-29
+2063,Robert Garcia,Female,79,Yonkers,2022-11-29
+2064,Sandra Lewis,Female,55,Newark,2022-02-12
+2065,Kenneth White,Female,41,Newark,2023-09-19
+2066,Andrew Martin,M,68,New York,2023-06-18
+2067,Michael Anderson,Female,6,Bronx,2023-06-16
+2068,Steven Gonzalez,F,6,Newark,2023-06-13
+2069,Patricia Miller,Male,57,Newark,2022-11-08
+2070,Charles Anderson,Female,55,Staten Island,2023-09-20
+2071,Patricia Thompson,M,19,Yonkers,2023-10-24
+2072,Donald Williams,F,65,Brooklyn,2022-07-04
+2073,Donna Lewis,F,70,Queens,2023-02-07
+2074,Anthony Hernandez,Female,4,Queens,2023-04-10
+2075,Donna Lewis,F,26,Yonkers,2022-04-03
+2076,Thomas Hernandez,F,84,Queens,2022-05-07
+2077,Jennifer Brown,F,58,Jersey City,2022-03-29
+2078,Kimberly Thompson,Female,66,Queens,2023-01-23
+2079,Emily Gonzalez,Male,22,Jersey City,2023-08-03
+2080,Elizabeth Garcia,Female,23,New York,2023-03-06
+2081,Karen Martinez,F,58,Staten Island,2023-10-04
+2082,Barbara Brown,Female,26,New York,2023-09-30
+2083,Thomas Smith,Female,64,Yonkers,2023-07-11
+2084,James Martin,Female,31,Bronx,2023-08-26
+2085,Mark Anderson,Female,57,Brooklyn,2023-09-08
+2086,Kenneth Smith,Female,71,Staten Island,2023-09-27
+2087,Emily Clark,Female,7,Queens,2022-06-01
+2088,Patricia Lee,Male,5,Queens,2022-02-03
+2089,Andrew Clark,M,39,Jersey City,2022-03-31
+2090,Patricia Brown,Female,23,Queens,2023-11-20
+2091,Charles Martin,F,77,Queens,2023-04-12
+2092,Donna Lopez,Male,12,Staten Island,2022-11-27
+2093,Lisa Lewis,Female,9,Newark,2023-07-18
+2094,Robert Martinez,Female,18,Brooklyn,2022-10-09
+2095,Nancy Taylor,Female,68,Bronx,2022-08-03
+2096,Michelle Johnson,Male,74,Brooklyn,2023-05-11
+2097,Kenneth Robinson,F,37,Newark,2023-09-16
+2098,Christopher Rodriguez,M,74,Jersey City,2022-05-13
+2099,Michelle Jackson,Female,67,Yonkers,2023-05-20
+2100,Barbara Lewis,M,30,Staten Island,2022-07-18
+2101,James Brown,Male,60,Brooklyn,2022-08-01
+2102,Michelle Wilson,Female,6,Jersey City,2022-12-25
+2103,Emily Sanchez,F,28,New York,2023-10-18
+2104,Richard Thompson,Male,33,Brooklyn,2022-11-12
+2105,Karen Taylor,M,42,New York,2022-04-27
+2106,Nancy Hernandez,Female,73,New York,2022-06-29
+2107,Richard Hernandez,Male,87,Yonkers,2023-05-01
+2108,John Lee,Female,62,Queens,2023-10-05
+2109,Sandra Lewis,M,43,Yonkers,2023-02-28
+2110,Patricia Clark,M,39,Jersey City,2023-07-23
+2111,Steven Smith,Female,74,Jersey City,2022-12-29
+2112,Robert Jones,Male,4,Jersey City,2023-01-20
+2113,Steven Clark,Female,74,Newark,2022-07-11
+2114,Kenneth Brown,Male,41,New York,2022-10-06
+2115,Anthony Williams,Female,31,Jersey City,2023-04-08
+2116,Karen Miller,M,39,Queens,2022-04-25
+2117,Lisa Sanchez,Male,26,Brooklyn,2023-03-31
+2118,Paul Smith,Female,65,Queens,2022-07-14
+2119,Nancy Robinson,Female,68,Staten Island,2022-12-02
+2120,Elizabeth Harris,Male,67,Queens,2022-07-30
+2121,John Anderson,Female,67,Brooklyn,2022-01-05
+2122,Karen Robinson,Male,88,Brooklyn,2022-12-08
+2123,Sandra Lewis,Male,14,Staten Island,2022-01-24
+2124,Andrew Harris,Male,82,Bronx,2022-11-25
+2125,Richard Miller,Male,36,Jersey City,2023-03-28
+2126,Linda Rodriguez,Female,21,Staten Island,2022-04-28
+2127,James Martin,M,66,Brooklyn,2022-07-31
+2128,Steven Lopez,M,41,Staten Island,2022-05-25
+2129,Charles Jackson,Female,22,Brooklyn,2022-11-15
+2130,Michelle Lewis,Male,70,Yonkers,2022-02-21
+2131,William Smith,Female,87,New York,2022-04-19
+2132,Matthew Johnson,Male,55,Newark,2022-07-03
+2133,Kenneth Lewis,M,81,Yonkers,2023-09-24
+2134,Daniel Martinez,Male,26,Brooklyn,2023-04-22
+2135,Andrew Jones,Male,60,Brooklyn,2023-04-12
+2136,Karen Perez,F,60,Yonkers,2022-08-26
+2137,Joseph Jones,M,34,Jersey City,2023-02-06
+2138,Barbara Thompson,F,43,Jersey City,2023-04-10
+2139,Ashley Smith,Male,61,Brooklyn,2022-12-26
+2140,Mark Anderson,Female,37,Jersey City,2023-09-11
+2141,Andrew Jones,M,14,Newark,2022-04-20
+2142,Christopher Moore,F,10,Staten Island,2023-06-30
+2143,Sandra Gonzalez,M,53,Bronx,2023-09-28
+2144,Jessica Moore,Female,62,Newark,2022-03-09
+2145,Nancy Miller,F,76,Newark,2023-03-22
+2146,Andrew Sanchez,Male,70,Bronx,2022-06-27
+2147,Robert White,F,74,Yonkers,2022-04-28
+2148,Donna Martin,Female,42,Brooklyn,2023-04-01
+2149,Barbara Martinez,Female,9,Brooklyn,2023-09-03
+2150,Matthew Hernandez,Female,83,New York,2022-04-03
+2151,Susan Clark,Female,75,New York,2022-05-31
+2152,Elizabeth Anderson,M,38,Newark,2023-09-23
+2153,Andrew Anderson,Female,27,Jersey City,2022-11-03
+2154,Andrew Sanchez,F,39,Newark,2022-12-19
+2155,Jennifer Jackson,Male,79,Newark,2022-05-11
+2156,Charles Johnson,Male,71,New York,2022-01-01
+2157,Emily Clark,Male,15,Staten Island,2022-02-01
+2158,Jessica Wilson,F,76,Newark,2023-10-03
+2159,Christopher Thompson,Female,52,Newark,2023-03-22
+2160,Steven Miller,F,23,Yonkers,2022-05-23
+2161,Richard Moore,Female,47,Newark,2022-06-07
+2162,Charles Ramirez,F,17,Queens,2022-01-12
+2163,Robert Lee,Male,19,Yonkers,2023-11-05
+2164,Margaret Jones,Male,18,Newark,2023-04-12
+2165,Kenneth Robinson,Female,80,Queens,2023-04-11
+2166,Paul Wilson,M,58,Newark,2022-12-30
+2167,Joseph Garcia,Female,78,New York,2023-08-15
+2168,Ashley Ramirez,F,31,Staten Island,2023-02-25
+2169,Steven Jackson,Male,5,New York,2023-08-05
+2170,Mark Thompson,Male,15,Yonkers,2022-03-23
+2171,Elizabeth White,F,68,Staten Island,2023-04-22
+2172,Kimberly Williams,M,79,Brooklyn,2022-09-09
+2173,Mark Lee,F,85,Brooklyn,2023-12-02
+2174,Steven Sanchez,M,40,New York,2022-12-18
+2175,Steven Harris,Male,61,Yonkers,2023-06-09
+2176,Mark Jackson,F,43,Newark,2022-12-28
+2177,Charles Martinez,Female,5,Staten Island,2023-08-01
+2178,Thomas Johnson,F,61,Queens,2023-08-10
+2179,Patricia Perez,Male,80,New York,2022-10-21
+2180,Ashley Williams,Female,65,Brooklyn,2022-10-12
+2181,Thomas Jones,M,36,Staten Island,2022-09-21
+2182,James White,Male,78,Queens,2023-08-29
+2183,Elizabeth Perez,Female,48,Queens,2022-09-25
+2184,Jessica Thomas,Female,68,New York,2022-12-18
+2185,Jennifer Jones,M,20,Yonkers,2023-02-27
+2186,Matthew Davis,F,57,Queens,2022-08-04
+2187,Andrew White,Male,7,Staten Island,2022-04-29
+2188,Patricia Garcia,Female,52,Yonkers,2022-11-05
+2189,Mark White,M,30,Newark,2023-12-01
+2190,Matthew Thomas,Male,19,Newark,2022-01-13
+2191,Charles Robinson,Female,49,Jersey City,2023-06-27
+2192,John Brown,M,82,Jersey City,2023-03-19
+2193,Michelle Robinson,F,35,Jersey City,2022-10-04
+2194,Sarah Sanchez,Male,33,Newark,2023-04-18
+2195,Jessica White,F,76,Bronx,2023-06-17
+2196,Nancy Perez,F,24,Jersey City,2023-07-15
+2197,James Perez,Male,9,New York,2023-02-26
+2198,Michael Taylor,Male,88,Yonkers,2022-12-26
+2199,Joseph White,Male,33,Bronx,2022-02-04
+2200,Mary Martin,Male,8,Bronx,2023-09-06
+2201,Linda Thompson,Male,12,Queens,2023-01-20
+2202,Andrew Sanchez,Female,15,Queens,2022-09-17
+2203,Charles Anderson,F,10,Yonkers,2022-10-11
+2204,Margaret Thompson,F,42,Staten Island,2022-06-15
+2205,Robert Rodriguez,Male,49,Newark,2022-12-07
+2206,Patricia Rodriguez,Male,23,Yonkers,2022-03-13
+2207,Ashley Robinson,Female,79,Newark,2022-07-02
+2208,Ashley Brown,Female,70,Newark,2022-08-12
+2209,Michelle Lee,Male,57,Staten Island,2022-04-16
+2210,John Williams,Male,74,Staten Island,2023-04-02
+2211,Mary Lewis,Female,20,New York,2022-02-08
+2212,Matthew Rodriguez,Female,43,Newark,2023-08-12
+2213,James Taylor,F,63,Yonkers,2023-03-23
+2214,Betty Ramirez,F,9,Bronx,2022-01-04
+2215,Matthew Thompson,Female,16,Jersey City,2022-12-08
+2216,Karen Gonzalez,Male,81,Brooklyn,2023-01-10
+2217,Steven Ramirez,Male,11,Yonkers,2022-10-24
+2218,Richard Garcia,M,6,Newark,2023-11-08
+2219,Richard Martinez,F,50,Brooklyn,2023-10-08
+2220,Daniel Thomas,Male,81,Yonkers,2022-07-14
+2221,William Johnson,Female,4,Bronx,2023-05-16
+2222,Matthew Williams,M,83,Staten Island,2023-05-27
+2223,Steven Clark,Female,3,New York,2022-12-14
+2224,Patricia Hernandez,F,6,Newark,2022-05-02
+2225,Susan Sanchez,F,86,Yonkers,2023-11-26
+2226,Steven Jones,F,75,Bronx,2022-03-15
+2227,John White,Female,63,New York,2023-04-28
+2228,Michelle Johnson,Female,84,Queens,2022-01-15
+2229,Barbara Lee,Male,40,Brooklyn,2023-04-13
+2230,Michelle Garcia,M,9,Brooklyn,2022-04-27
+2231,Ashley Martin,M,29,Brooklyn,2022-07-27
+2232,Margaret Hernandez,F,87,Newark,2022-11-29
+2233,Linda Perez,M,70,Queens,2022-11-26
+2234,Susan Harris,Male,76,Queens,2022-12-10
+2235,Robert Brown,Male,19,Newark,2022-06-22
+2236,Lisa Moore,Female,57,Bronx,2023-08-19
+2237,John Jones,Male,81,Newark,2022-06-11
+2238,Mary Lewis,Female,11,New York,2022-01-08
+2239,Barbara Robinson,Male,84,Staten Island,2023-03-03
+2240,Mark Thompson,Female,27,Queens,2023-10-18
+2241,Sarah Taylor,Female,53,Bronx,2022-06-28
+2242,Michelle Thompson,Male,77,Queens,2023-05-27
+2243,Michelle Williams,F,39,Jersey City,2023-03-05
+2244,James Moore,Female,25,Brooklyn,2023-06-27
+2245,Michael Martin,Male,70,Bronx,2023-04-21
+2246,Susan Rodriguez,Male,25,Brooklyn,2022-06-02
+2247,Mark Thomas,Female,21,New York,2022-02-25
+2248,Lisa Martinez,Female,56,Staten Island,2022-12-09
+2249,Michelle Sanchez,Female,6,Brooklyn,2022-02-23
+2250,Steven Garcia,Female,4,Yonkers,2023-06-12
+2251,Linda Williams,Female,57,Jersey City,2023-03-06
+2252,Richard White,F,42,Bronx,2022-04-23
+2253,Christopher Davis,Male,31,Newark,2022-07-24
+2254,Matthew Lewis,Female,10,Yonkers,2023-08-23
+2255,Ashley Johnson,Female,19,Bronx,2023-09-17
+2256,Sandra Garcia,Female,48,Queens,2023-04-14
+2257,Richard Lee,Male,35,Bronx,2022-12-10
+2258,William Johnson,F,73,New York,2022-10-15
+2259,William Brown,Female,59,Newark,2022-06-25
+2260,Nancy Davis,Male,78,Queens,2023-10-16
+2261,Michelle Lewis,Female,74,Bronx,2022-03-30
+2262,Anthony Ramirez,M,63,Bronx,2023-08-29
+2263,Mark Clark,Female,36,New York,2023-03-15
+2264,Jessica Davis,Male,56,Bronx,2023-08-29
+2265,Elizabeth Robinson,M,1,Newark,2022-02-15
+2266,John Thomas,F,65,New York,2023-03-12
+2267,Kimberly Gonzalez,Female,13,Yonkers,2023-05-23
+2268,Jessica Williams,M,2,Newark,2022-08-12
+2269,William Lopez,Male,31,Brooklyn,2022-01-17
+2270,Mark Perez,Male,21,Yonkers,2023-08-08
+2271,Donna Smith,Female,60,Queens,2023-02-20
+2272,Barbara Sanchez,Male,81,Yonkers,2023-10-11
+2273,James Ramirez,F,10,Newark,2022-12-07
+2274,Kimberly Johnson,Male,55,Staten Island,2023-09-20
+2275,Steven Jackson,Female,88,Brooklyn,2023-09-28
+2276,Nancy White,Male,66,Jersey City,2022-02-22
+2277,Linda Gonzalez,Male,60,New York,2023-01-10
+2278,Lisa Garcia,F,72,Brooklyn,2023-07-29
+2279,Susan Jones,Male,31,Brooklyn,2023-10-27
+2280,Mark White,M,27,Bronx,2022-11-25
+2281,Daniel Lewis,Male,65,Newark,2022-10-11
+2282,Patricia Williams,Male,45,Yonkers,2023-05-13
+2283,Paul Taylor,Male,61,Staten Island,2023-04-08
+2284,Michelle Lopez,F,9,Bronx,2023-04-14
+2285,Jennifer Williams,Female,23,Staten Island,2022-03-20
+2286,Michael Garcia,Male,15,Queens,2023-05-24
+2287,Elizabeth Ramirez,Female,67,New York,2022-10-28
+2288,Anthony Perez,M,17,Yonkers,2022-12-22
+2289,Anthony Anderson,F,83,New York,2022-10-26
+2290,Richard Williams,Male,30,Jersey City,2023-02-26
+2291,Donna Hernandez,F,83,Jersey City,2023-05-13
+2292,Donna Perez,F,68,Yonkers,2023-04-14
+2293,Karen Jackson,Female,40,Queens,2022-09-24
+2294,Joseph Thomas,Male,37,New York,2022-06-01
+2295,Daniel Martinez,Female,22,Queens,2023-07-03
+2296,Charles Garcia,Female,86,Queens,2022-06-15
+2297,Jessica Brown,Male,41,Queens,2023-03-28
+2298,Thomas Lopez,Female,27,New York,2023-11-13
+2299,Christopher Lopez,Female,48,Yonkers,2023-07-07
+2300,David Moore,Male,16,New York,2023-02-19
+2301,Ashley Harris,Female,59,Jersey City,2022-06-09
+2302,James White,M,65,Jersey City,2023-10-25
+2303,Charles Thomas,Male,74,Queens,2023-08-02
+2304,Donald Hernandez,F,15,Yonkers,2022-02-11
+2305,William Perez,M,15,Staten Island,2022-01-26
+2306,Betty Martin,Female,58,Jersey City,2022-04-05
+2307,Christopher Johnson,M,83,Bronx,2023-08-21
+2308,Kimberly Davis,Male,26,New York,2022-03-27
+2309,Steven Ramirez,Female,87,Brooklyn,2023-06-09
+2310,Betty Miller,Female,41,New York,2023-11-14
+2311,Lisa Gonzalez,Female,55,Jersey City,2023-01-31
+2312,Lisa Smith,Male,45,Jersey City,2022-11-12
+2313,Donald Ramirez,M,12,Bronx,2023-03-31
+2314,Anthony Sanchez,Female,37,Queens,2023-03-11
+2315,Anthony Jones,M,77,Brooklyn,2022-05-28
+2316,Susan Martinez,Female,68,Jersey City,2022-03-09
+2317,Donna Harris,Female,12,New York,2023-02-24
+2318,Sarah Wilson,Female,72,Yonkers,2023-08-05
+2319,William Miller,Female,49,Staten Island,2023-07-22
+2320,Ashley Johnson,Male,75,Staten Island,2023-05-21
+2321,Emily White,Female,29,New York,2022-01-03
+2322,Elizabeth Rodriguez,Male,82,Yonkers,2022-05-08
+2323,Charles Wilson,Female,63,Bronx,2022-01-30
+2324,Linda Harris,Male,64,Brooklyn,2023-09-06
+2325,Lisa Jackson,Female,73,Newark,2022-09-22
+2326,Mark Thompson,Male,48,New York,2022-09-23
+2327,David Jackson,Male,19,Jersey City,2023-04-18
+2328,William Lopez,Female,7,Staten Island,2023-01-05
+2329,Anthony Lee,Male,7,Staten Island,2022-10-26
+2330,Kimberly Lee,Male,66,Bronx,2023-10-06
+2331,Barbara Harris,Male,77,Queens,2023-07-11
+2332,Christopher Ramirez,Male,88,Staten Island,2022-10-05
+2333,Lisa Brown,M,75,Jersey City,2022-05-28
+2334,James Jones,M,37,Jersey City,2023-05-12
+2335,Anthony Hernandez,Female,14,Bronx,2022-06-08
+2336,Paul Davis,Female,72,Brooklyn,2023-03-04
+2337,Sandra Robinson,Male,15,Queens,2022-01-18
+2338,Mark Lopez,Male,47,Queens,2023-03-29
+2339,Kenneth Taylor,Male,23,Staten Island,2022-01-30
+2340,Linda Davis,Female,19,Bronx,2022-11-11
+2341,William Miller,Female,11,Newark,2022-04-25
+2342,Robert Smith,Female,56,New York,2022-07-21
+2343,Michael Johnson,F,66,New York,2023-04-26
+2344,Linda Robinson,Male,6,Brooklyn,2022-11-05
+2345,James Harris,Male,16,Bronx,2023-08-25
+2346,Richard Garcia,F,45,New York,2022-04-03
+2347,Elizabeth Ramirez,F,36,Jersey City,2022-12-27
+2348,David Ramirez,M,79,Bronx,2023-06-02
+2349,Andrew Williams,Male,75,New York,2023-06-26
+2350,Susan Thompson,Female,37,Queens,2023-07-05
+2351,James White,Male,28,Yonkers,2023-01-11
+2352,Donna Garcia,Female,87,Brooklyn,2022-07-05
+2353,Daniel Gonzalez,Female,28,Bronx,2023-02-22
+2354,Linda Harris,Male,16,Yonkers,2022-04-23
+2355,Kimberly Jones,Female,47,Staten Island,2023-07-25
+2356,John Williams,Male,64,Brooklyn,2023-01-30
+2357,Charles Anderson,M,40,Yonkers,2022-08-20
+2358,Emily Wilson,Male,55,Bronx,2022-03-13
+2359,Mark Perez,Male,23,New York,2023-11-22
+2360,Ashley Perez,Male,51,Yonkers,2023-06-20
+2361,Jennifer Brown,Female,51,Newark,2023-08-28
+2362,Michael White,Female,9,Jersey City,2022-07-23
+2363,Nancy Miller,M,52,Brooklyn,2022-08-27
+2364,Margaret White,Female,36,Staten Island,2023-10-22
+2365,Betty Lopez,Female,86,Newark,2023-05-12
+2366,Paul Rodriguez,Female,59,Brooklyn,2022-05-06
+2367,Thomas Thomas,Female,30,Queens,2022-01-31
+2368,Michael White,Male,9,Yonkers,2023-11-26
+2369,Mary Garcia,Female,78,Jersey City,2022-06-06
+2370,Karen Martin,M,13,Brooklyn,2023-11-08
+2371,Kimberly Harris,Female,60,Bronx,2022-10-28
+2372,Ashley Thomas,M,34,Jersey City,2023-07-08
+2373,Steven Smith,Male,56,Brooklyn,2023-01-28
+2374,Donald Hernandez,Female,57,Yonkers,2022-02-06
+2375,John Garcia,M,85,Staten Island,2022-06-18
+2376,Ashley Wilson,Female,40,Newark,2023-05-15
+2377,Linda Jackson,F,63,Yonkers,2023-05-03
+2378,Emily Ramirez,Female,65,New York,2023-02-05
+2379,Thomas Thomas,M,49,Jersey City,2022-10-19
+2380,Christopher Johnson,Male,76,New York,2022-05-12
+2381,Lisa Lopez,F,75,New York,2023-10-03
+2382,Nancy Gonzalez,Male,55,Jersey City,2023-01-01
+2383,Anthony Lopez,Male,85,Bronx,2022-09-11
+2384,Jessica Lee,Male,76,Brooklyn,2022-03-09
+2385,Karen Brown,Male,22,New York,2023-07-06
+2386,Christopher Johnson,Female,85,Newark,2023-08-05
+2387,Paul Lewis,Female,35,New York,2023-04-26
+2388,Donna Smith,Male,49,Newark,2022-11-27
+2389,Andrew Brown,Female,13,Bronx,2022-12-11
+2390,Ashley Taylor,F,44,Queens,2023-09-22
+2391,Karen Lopez,Female,26,Yonkers,2023-10-13
+2392,Robert Clark,M,28,Staten Island,2022-09-29
+2393,Patricia Martinez,M,52,Bronx,2023-10-02
+2394,Jennifer Thompson,M,13,Jersey City,2022-10-07
+2395,Robert Jackson,M,61,Newark,2022-08-03
+2396,Daniel Sanchez,Male,84,Staten Island,2023-06-01
+2397,Karen Wilson,F,70,Jersey City,2022-07-24
+2398,Anthony Gonzalez,Male,80,Yonkers,2023-11-19
+2399,Emily Garcia,Male,81,Queens,2023-08-14
+2400,Ashley Miller,F,60,Staten Island,2023-10-16
+2401,Steven Sanchez,M,56,New York,2023-06-19
+2402,Richard Lopez,Female,19,Bronx,2022-06-04
+2403,Karen Ramirez,Female,53,Jersey City,2022-03-07
+2404,Susan Ramirez,Female,35,Staten Island,2023-10-24
+2405,David Rodriguez,F,77,Bronx,2023-02-20
+2406,Jessica Brown,Female,25,New York,2022-09-09
+2407,Karen Anderson,Female,72,Newark,2023-03-09
+2408,John Miller,Female,35,Queens,2022-01-30
+2409,Thomas Sanchez,Male,85,Queens,2023-10-22
+2410,John White,Female,3,New York,2022-03-27
+2411,Christopher Martin,Male,9,Newark,2023-01-08
+2412,Jennifer Gonzalez,F,18,Bronx,2022-04-25
+2413,Andrew White,M,16,Staten Island,2023-05-24
+2414,Jennifer Davis,M,16,Jersey City,2022-12-04
+2415,Donna White,Female,31,Newark,2022-08-12
+2416,Elizabeth Brown,Female,28,Staten Island,2023-03-27
+2417,Anthony Rodriguez,M,8,Yonkers,2023-07-01
+2418,Lisa Thompson,Male,41,Newark,2023-05-02
+2419,Jessica Rodriguez,Female,47,Yonkers,2023-01-12
+2420,Karen Smith,F,78,New York,2023-11-10
+2421,Patricia Thompson,F,31,Staten Island,2023-07-20
+2422,Matthew Martinez,F,47,Brooklyn,2023-07-02
+2423,Jessica Ramirez,Female,50,New York,2023-02-07
+2424,Thomas Martinez,Male,31,Staten Island,2022-08-04
+2425,David Robinson,Female,81,Jersey City,2023-10-22
+2426,Anthony Sanchez,Male,36,Brooklyn,2023-05-19
+2427,Mark White,Female,43,Newark,2022-04-13
+2428,David Thompson,Male,65,Brooklyn,2022-12-27
+2429,Anthony Martin,F,71,Jersey City,2023-04-10
+2430,Mary Harris,Male,83,Queens,2023-10-08
+2431,Donald Sanchez,F,18,New York,2023-02-15
+2432,Richard Lee,Male,41,Brooklyn,2022-04-24
+2433,David Davis,M,84,Queens,2023-09-01
+2434,Anthony Sanchez,Male,58,Yonkers,2022-05-17
+2435,Thomas Garcia,F,76,Jersey City,2022-10-16
+2436,Richard Williams,Female,48,Queens,2023-02-07
+2437,Matthew Clark,M,29,New York,2022-01-24
+2438,Emily Lee,M,81,Bronx,2022-04-02
+2439,Sandra Miller,Male,22,New York,2023-02-15
+2440,Michelle Wilson,M,34,Queens,2022-04-02
+2441,Lisa Garcia,M,16,New York,2023-06-23
+2442,Margaret Harris,Female,87,Yonkers,2022-05-02
+2443,Joseph Thompson,Female,25,Staten Island,2022-10-22
+2444,Ashley Gonzalez,Female,56,Bronx,2023-09-07
+2445,Susan Clark,Male,87,Bronx,2023-03-05
+2446,Barbara Wilson,Female,4,Staten Island,2022-09-26
+2447,Jessica Martin,Female,32,Jersey City,2023-08-20
+2448,Sandra Williams,Male,61,Queens,2022-11-28
+2449,Betty Perez,Female,50,Newark,2023-09-04
+2450,Thomas Williams,Male,72,New York,2022-02-23
+2451,Nancy Robinson,Female,61,Jersey City,2023-09-13
+2452,Kenneth Thompson,F,6,New York,2022-09-17
+2453,Paul Martin,Female,39,Newark,2023-11-19
+2454,Lisa Jones,M,6,Queens,2022-09-24
+2455,David Taylor,Female,44,Yonkers,2022-05-16
+2456,Jennifer Hernandez,F,68,Newark,2022-05-26
+2457,Thomas Brown,Male,6,Queens,2023-05-27
+2458,Sarah White,Male,56,Staten Island,2022-09-27
+2459,Michelle Clark,Male,67,Jersey City,2023-03-23
+2460,David Hernandez,F,63,Queens,2023-07-24
+2461,Donald Johnson,Female,20,New York,2022-08-24
+2462,Barbara Johnson,Female,34,Queens,2023-04-24
+2463,Margaret Brown,Female,6,Yonkers,2023-01-01
+2464,Emily Thomas,Female,64,Brooklyn,2022-06-01
+2465,Linda Lopez,Male,27,Staten Island,2022-07-04
+2466,David White,M,35,Bronx,2023-08-21
+2467,James Taylor,M,24,Newark,2022-03-20
+2468,Jessica Harris,Female,87,Brooklyn,2022-12-03
+2469,Mary Martinez,F,88,Brooklyn,2023-02-08
+2470,Lisa Jackson,Male,42,Queens,2022-01-30
+2471,Jennifer Anderson,F,85,Yonkers,2023-04-10
+2472,Sarah Martin,F,1,Jersey City,2022-02-14
+2473,Michelle Anderson,Male,73,Queens,2022-08-05
+2474,Patricia Sanchez,F,37,Jersey City,2022-02-26
+2475,Robert Moore,M,49,Brooklyn,2023-02-13
+2476,Thomas Garcia,Female,52,Brooklyn,2022-01-22
+2477,Susan Garcia,Female,52,Staten Island,2023-10-25
+2478,Elizabeth Brown,Male,63,Newark,2022-11-14
+2479,Kenneth Jones,Male,86,Brooklyn,2023-01-12
+2480,Paul Miller,Female,58,Newark,2023-05-03
+2481,Sarah Jackson,M,55,Brooklyn,2023-03-09
+2482,Lisa Martin,Female,56,Newark,2022-04-06
+2483,John Taylor,Male,60,Bronx,2023-10-26
+2484,Elizabeth Robinson,Female,68,Brooklyn,2022-10-25
+2485,Sandra Wilson,Male,62,Staten Island,2022-06-02
+2486,William Perez,Male,32,Newark,2022-10-30
+2487,Andrew Johnson,M,10,New York,2023-06-10
+2488,Michael Taylor,Female,53,Brooklyn,2023-04-21
+2489,Andrew Clark,Male,46,Staten Island,2023-08-23
+2490,Jennifer Harris,M,3,Brooklyn,2023-11-09
+2491,Sandra Garcia,Female,51,New York,2022-03-27
+2492,Anthony Lewis,F,39,Jersey City,2023-08-25
+2493,Sandra Harris,F,58,Staten Island,2022-12-16
+2494,Barbara Miller,Female,11,Staten Island,2023-11-21
+2495,Michael Wilson,M,3,New York,2023-02-09
+2496,Linda Smith,Female,84,Yonkers,2023-04-17
+2497,Betty Ramirez,F,78,Yonkers,2022-11-07
+2498,Michelle Clark,M,47,Newark,2022-11-06
+2499,Jennifer Jones,Female,2,Bronx,2022-04-25
+2500,Mary Thompson,Female,4,Bronx,2023-05-08
+2501,Elizabeth Lee,Female,56,Bronx,2022-03-30
+2502,Karen Harris,Female,19,Yonkers,2023-03-09
+2503,Mary Brown,Female,20,Yonkers,2023-05-12
+2504,Mark Smith,Female,75,Bronx,2022-07-26
+2505,Charles Jackson,Female,7,Jersey City,2022-01-09
+2506,Michael Lee,F,56,Newark,2023-05-23
+2507,Donna Martin,F,71,Staten Island,2022-02-07
+2508,Ashley Gonzalez,Female,66,Yonkers,2022-08-26
+2509,Patricia Taylor,Male,55,Jersey City,2023-07-21
+2510,Robert Rodriguez,F,54,Yonkers,2022-04-30
+2511,Ashley Martin,F,45,Yonkers,2023-03-23
+2512,Mary Garcia,Male,25,Yonkers,2022-12-19
+2513,Donald Davis,M,29,Jersey City,2023-09-09
+2514,Sandra Jones,Male,50,Newark,2023-11-21
+2515,Lisa Sanchez,Female,21,Bronx,2022-10-17
+2516,Jennifer Perez,Female,17,Queens,2022-07-24
+2517,David Martin,Female,13,Newark,2023-05-21
+2518,Karen Davis,Female,72,New York,2022-01-19
+2519,Daniel Lewis,Male,46,Queens,2022-06-28
+2520,Paul Johnson,Male,44,Newark,2022-04-27
+2521,Michelle Davis,Male,72,Bronx,2023-05-14
+2522,Thomas Hernandez,Male,6,Staten Island,2022-06-04
+2523,Paul Martin,F,14,New York,2023-03-25
+2524,Sandra Clark,Male,14,Brooklyn,2023-07-30
+2525,John Taylor,Male,22,Brooklyn,2022-07-30
+2526,Lisa Garcia,F,38,Yonkers,2023-06-03
+2527,Ashley White,Male,20,Jersey City,2022-12-09
+2528,William Brown,Female,57,Newark,2022-01-07
+2529,Jessica Clark,Female,44,Staten Island,2023-06-02
+2530,David Williams,Male,48,Newark,2023-01-05
+2531,Jessica Jones,M,54,Bronx,2022-05-22
+2532,Margaret Wilson,Female,59,Jersey City,2022-01-31
+2533,Donald Jones,Male,67,Brooklyn,2022-03-28
+2534,Nancy Hernandez,Female,22,Newark,2022-03-04
+2535,Betty Harris,Male,85,Queens,2023-08-12
+2536,Patricia Lee,F,85,Staten Island,2023-03-06
+2537,Betty Lewis,F,71,Staten Island,2022-11-18
+2538,Daniel Smith,Male,68,Queens,2023-02-18
+2539,Donald Lee,Female,70,Yonkers,2022-12-20
+2540,Betty Harris,Female,39,Brooklyn,2022-02-07
+2541,Steven Hernandez,Female,17,Staten Island,2022-08-07
+2542,Jennifer Taylor,M,40,Jersey City,2023-10-13
+2543,David Smith,Male,70,Staten Island,2022-09-05
+2544,Karen White,Female,65,Brooklyn,2022-03-03
+2545,Lisa Rodriguez,F,65,Jersey City,2022-05-07
+2546,Patricia Harris,F,16,Yonkers,2022-11-02
+2547,Andrew White,Male,59,Jersey City,2022-08-30
+2548,Donna Jackson,F,81,Bronx,2022-12-25
+2549,Karen Martinez,F,74,Queens,2023-01-22
+2550,Kimberly White,Female,14,Jersey City,2023-06-13
+2551,Donna Miller,Male,59,Brooklyn,2022-05-31
+2552,Margaret Clark,Female,11,Brooklyn,2022-03-05
+2553,Margaret Lewis,Female,61,Bronx,2023-04-02
+2554,Robert Lopez,F,68,Newark,2023-08-26
+2555,Emily Taylor,Female,34,Yonkers,2023-10-14
+2556,Margaret Anderson,F,63,Newark,2022-06-16
+2557,Elizabeth Taylor,Female,63,Yonkers,2022-05-13
+2558,Paul Ramirez,M,16,Bronx,2023-04-12
+2559,Mark Johnson,F,21,Jersey City,2022-05-02
+2560,Kenneth Ramirez,Female,15,Brooklyn,2023-01-14
+2561,Andrew Martinez,Male,67,Queens,2022-05-01
+2562,Lisa Martinez,Male,39,Staten Island,2023-05-13
+2563,Mary Sanchez,Female,19,Newark,2022-02-19
+2564,Karen Lewis,Male,28,Queens,2023-05-16
+2565,James Brown,M,45,Brooklyn,2022-02-15
+2566,Anthony Thomas,M,40,Yonkers,2022-12-12
+2567,Matthew Thomas,F,78,Queens,2022-05-22
+2568,Paul Lee,Female,58,Yonkers,2022-06-02
+2569,Christopher Williams,M,86,Newark,2023-02-01
+2570,Joseph Lewis,Female,44,New York,2023-11-18
+2571,Donald White,Male,83,Brooklyn,2022-06-19
+2572,Mary Jackson,F,40,Brooklyn,2023-10-22
+2573,Emily Williams,Female,80,New York,2023-08-07
+2574,Kimberly Miller,Female,65,New York,2022-05-04
+2575,Steven Garcia,Male,36,Bronx,2022-09-09
+2576,Donna Anderson,Male,69,Jersey City,2023-02-16
+2577,Donna Johnson,Female,3,Jersey City,2023-03-24
+2578,Barbara Wilson,Male,68,Jersey City,2023-01-27
+2579,Thomas Williams,Male,13,Queens,2022-10-20
+2580,Elizabeth Garcia,Male,12,Queens,2022-11-11
+2581,Anthony Perez,Female,8,Jersey City,2022-07-05
+2582,Mary Thompson,Male,39,Newark,2022-04-12
+2583,Christopher Jones,Female,42,Staten Island,2023-01-20
+2584,Linda Johnson,Female,31,Bronx,2023-05-20
+2585,Paul Harris,M,50,Brooklyn,2022-10-03
+2586,Patricia Hernandez,Female,71,Newark,2022-03-09
+2587,Mark Smith,Female,82,Bronx,2022-01-20
+2588,Sarah Moore,M,87,Brooklyn,2022-09-10
+2589,Emily Lee,Female,39,Newark,2023-04-02
+2590,Jennifer Ramirez,F,65,Bronx,2022-05-26
+2591,Lisa Moore,Female,32,Newark,2023-07-23
+2592,Donald Johnson,Male,60,Staten Island,2023-10-31
+2593,David Smith,Male,62,Staten Island,2023-09-05
+2594,Thomas Clark,F,49,Jersey City,2023-10-10
+2595,Susan Jackson,M,37,New York,2022-06-15
+2596,Steven Jackson,Male,39,Brooklyn,2023-02-09
+2597,Linda Clark,Female,72,Staten Island,2023-03-19
+2598,Susan Martin,M,41,Jersey City,2023-10-13
+2599,Thomas Harris,F,58,Staten Island,2022-09-09
+2600,Christopher Hernandez,Female,59,Jersey City,2022-01-17
+2601,William Lee,Male,78,Yonkers,2022-01-05
+2602,James Perez,Female,53,Yonkers,2023-02-07
+2603,Steven Williams,F,84,Brooklyn,2023-07-06
+2604,Mary Lewis,F,57,Brooklyn,2022-12-28
+2605,Matthew Clark,M,46,Newark,2022-07-01
+2606,James Brown,Female,48,Bronx,2023-04-01
+2607,James Davis,F,3,Staten Island,2023-11-28
+2608,Daniel Miller,Male,79,Staten Island,2022-08-15
+2609,Joseph Thomas,Male,5,Staten Island,2023-05-20
+2610,Kenneth Miller,Male,26,Newark,2022-04-24
+2611,Sarah Jackson,M,64,Queens,2023-07-20
+2612,Richard Perez,F,73,Queens,2022-03-08
+2613,Donna Jones,F,9,Queens,2022-09-23
+2614,Andrew Ramirez,Female,67,Staten Island,2022-07-16
+2615,Mary Thompson,F,69,Staten Island,2023-11-29
+2616,Emily Lewis,Female,1,Newark,2023-10-19
+2617,Patricia Ramirez,Male,56,Newark,2022-10-08
+2618,Linda Perez,M,60,Yonkers,2023-01-06
+2619,Kimberly Harris,Male,29,New York,2022-10-12
+2620,Anthony Moore,Female,41,New York,2023-02-06
+2621,Richard Hernandez,Male,74,New York,2022-08-20
+2622,Margaret Williams,Female,26,Queens,2022-12-04
+2623,Karen Williams,F,81,Brooklyn,2022-01-29
+2624,Mark Wilson,Male,76,Jersey City,2022-09-14
+2625,Jessica Brown,Female,31,Jersey City,2022-02-25
+2626,Nancy Taylor,Female,10,Yonkers,2022-04-08
+2627,Donald Jackson,Male,11,New York,2022-02-04
+2628,Matthew Hernandez,F,9,Queens,2022-03-05
+2629,Donald Johnson,Male,79,Newark,2022-03-09
+2630,Michael Perez,Male,72,New York,2022-10-29
+2631,Matthew Gonzalez,Male,80,Newark,2022-08-27
+2632,Kenneth Sanchez,F,80,New York,2023-04-10
+2633,Matthew Anderson,Female,80,Brooklyn,2022-12-14
+2634,Mary Anderson,M,43,Bronx,2022-04-21
+2635,Michael Smith,M,9,Bronx,2023-08-10
+2636,William Lee,M,33,Jersey City,2023-03-08
+2637,Mark White,M,57,Queens,2022-09-06
+2638,William Sanchez,Male,8,Queens,2022-11-16
+2639,Donna Wilson,M,84,Jersey City,2022-11-15
+2640,Donna Lewis,M,19,Queens,2023-04-26
+2641,Karen Martin,Male,38,Jersey City,2022-01-09
+2642,Kimberly Jackson,F,87,Queens,2022-02-28
+2643,Jessica Taylor,M,7,Newark,2022-12-19
+2644,Richard Miller,F,26,Brooklyn,2022-12-16
+2645,Richard Perez,Female,60,Jersey City,2023-08-16
+2646,Andrew Hernandez,M,39,Newark,2022-12-03
+2647,David Brown,Female,6,Yonkers,2022-08-13
+2648,James Lee,Female,30,Yonkers,2023-10-01
+2649,Susan Davis,Female,43,Newark,2022-07-30
+2650,Betty Garcia,Male,47,New York,2022-03-17
+2651,Daniel Smith,M,15,Queens,2022-10-25
+2652,Donald Miller,F,75,Jersey City,2022-02-14
+2653,Mary Miller,Female,37,Queens,2022-08-13
+2654,Thomas White,Female,44,Bronx,2022-07-02
+2655,Richard Smith,Female,34,Brooklyn,2022-01-22
+2656,William Gonzalez,F,15,Jersey City,2022-08-04
+2657,Karen Anderson,Female,48,Jersey City,2023-11-08
+2658,David Taylor,M,56,Brooklyn,2022-05-02
+2659,Elizabeth Lewis,Female,25,Bronx,2023-06-30
+2660,Matthew Thompson,Male,41,Newark,2023-10-14
+2661,Jessica Robinson,Male,79,Bronx,2023-07-03
+2662,Charles Sanchez,Female,42,Bronx,2022-02-24
+2663,Sarah Ramirez,Female,66,Yonkers,2022-08-03
+2664,Jennifer Sanchez,Female,85,Brooklyn,2022-06-21
+2665,Paul Gonzalez,F,66,Jersey City,2023-05-26
+2666,Kimberly Anderson,Female,42,Jersey City,2023-06-23
+2667,Mark Thompson,Female,61,Staten Island,2023-08-19
+2668,Betty Lee,M,84,New York,2022-08-01
+2669,Joseph Lewis,Female,58,Bronx,2023-02-10
+2670,Susan Martinez,Female,49,Queens,2023-01-19
+2671,Thomas Moore,Male,18,Brooklyn,2022-10-30
+2672,Donald Taylor,Male,30,New York,2023-04-22
+2673,Paul Martin,Male,55,Yonkers,2023-04-24
+2674,Margaret Wilson,Male,64,Jersey City,2022-10-07
+2675,Matthew Smith,Female,57,Bronx,2022-09-29
+2676,Robert Lopez,Male,38,Brooklyn,2022-10-11
+2677,Joseph Brown,Male,10,Jersey City,2022-02-09
+2678,Steven Miller,Male,26,Jersey City,2022-09-14
+2679,Karen White,F,36,Bronx,2023-09-11
+2680,William Ramirez,F,70,Staten Island,2022-01-09
+2681,Karen Martinez,Male,52,Newark,2023-08-17
+2682,James Thomas,F,66,Queens,2023-02-12
+2683,Joseph Davis,F,27,Yonkers,2022-08-28
+2684,Kimberly Jackson,M,60,Yonkers,2022-12-15
+2685,Jennifer Hernandez,Female,55,Newark,2022-08-03
+2686,Donald Anderson,M,4,Jersey City,2022-05-23
+2687,Andrew Ramirez,Female,40,New York,2023-05-27
+2688,Daniel Hernandez,Female,54,Newark,2023-02-18
+2689,Steven Martinez,Male,76,New York,2023-08-05
+2690,John Robinson,Female,20,Jersey City,2023-08-05
+2691,Kenneth Robinson,M,74,Newark,2023-01-26
+2692,Susan Gonzalez,Male,69,Newark,2022-07-12
+2693,Mark Brown,Male,73,Yonkers,2023-10-17
+2694,Karen Williams,Female,14,Queens,2022-02-02
+2695,Kenneth Thomas,Male,24,Bronx,2022-03-13
+2696,Matthew Martinez,Female,30,Staten Island,2023-11-07
+2697,Kimberly Williams,Female,8,Jersey City,2023-06-15
+2698,James Garcia,Male,53,Newark,2022-06-10
+2699,Linda Jones,M,54,Yonkers,2022-03-12
+2700,Matthew Lewis,Female,17,Bronx,2022-11-14
+2701,Margaret Clark,F,86,Yonkers,2022-06-12
+2702,Kenneth Jackson,Male,76,Bronx,2023-05-30
+2703,Sandra Rodriguez,Female,1,Queens,2023-04-02
+2704,Robert Clark,Female,78,Bronx,2023-06-23
+2705,Nancy Robinson,M,63,Yonkers,2023-04-19
+2706,Andrew Johnson,F,12,Staten Island,2023-10-24
+2707,Sandra Lopez,F,39,Newark,2023-09-20
+2708,Barbara Wilson,Female,23,Newark,2023-04-14
+2709,Matthew Robinson,F,24,Brooklyn,2023-02-07
+2710,John Davis,Female,36,Staten Island,2023-11-14
+2711,Robert Thompson,F,28,Yonkers,2023-02-26
+2712,Emily Brown,Male,10,Brooklyn,2023-06-01
+2713,Christopher Wilson,Female,22,Staten Island,2022-08-01
+2714,Paul Johnson,Female,4,Brooklyn,2023-10-17
+2715,Sandra Gonzalez,Male,52,Bronx,2023-02-11
+2716,John Smith,Male,15,Queens,2022-12-01
+2717,Sandra Thomas,Female,9,Brooklyn,2023-07-16
+2718,Jessica Thompson,Female,18,Yonkers,2022-10-13
+2719,David Garcia,Male,78,Brooklyn,2022-07-01
+2720,Charles Brown,M,51,Queens,2022-03-21
+2721,James Perez,Male,20,Yonkers,2023-01-02
+2722,Barbara Miller,F,5,Bronx,2023-03-29
+2723,Patricia Clark,F,67,Brooklyn,2023-02-04
+2724,Karen Anderson,Male,77,New York,2022-02-19
+2725,Matthew Harris,Female,32,Jersey City,2022-09-02
+2726,Richard Williams,Male,54,New York,2022-01-15
+2727,Nancy Clark,Female,88,Brooklyn,2022-08-14
+2728,Michael Sanchez,F,22,Queens,2022-02-15
+2729,Anthony Taylor,Male,42,Jersey City,2023-07-30
+2730,Richard Martin,Female,70,Newark,2023-03-15
+2731,Linda Davis,Female,14,Jersey City,2022-11-28
+2732,Barbara Smith,Female,84,Jersey City,2022-01-13
+2733,Matthew Miller,Female,29,Brooklyn,2023-11-05
+2734,Sarah Lee,M,48,New York,2022-03-10
+2735,Susan Wilson,Male,77,Yonkers,2022-04-15
+2736,Steven Sanchez,M,22,Staten Island,2022-04-08
+2737,Kenneth Hernandez,F,50,Queens,2022-12-07
+2738,Barbara Lee,F,41,Yonkers,2022-03-11
+2739,Nancy Smith,M,75,Yonkers,2023-01-27
+2740,Paul Lee,F,30,New York,2022-08-27
+2741,Mary Martin,Male,40,Bronx,2023-03-15
+2742,Jessica Martin,Male,8,Queens,2023-01-19
+2743,Ashley Martinez,Female,20,Newark,2022-07-29
+2744,John Davis,F,77,Yonkers,2022-12-03
+2745,William Rodriguez,Male,83,New York,2023-06-18
+2746,Anthony Lee,Male,4,Bronx,2022-12-06
+2747,Nancy Davis,Female,70,New York,2023-11-12
+2748,Jessica Sanchez,F,29,Newark,2023-06-18
+2749,Christopher Garcia,Female,81,New York,2022-03-08
+2750,Ashley Williams,Female,7,Queens,2022-07-29
+2751,William Williams,Female,76,Bronx,2022-08-30
+2752,Paul Williams,Female,60,Staten Island,2022-06-18
+2753,Richard Davis,Female,23,Bronx,2022-11-07
+2754,Charles Jackson,Female,82,Bronx,2022-10-06
+2755,Mark Williams,Male,51,Newark,2022-06-21
+2756,Mark Anderson,Female,65,Newark,2022-06-09
+2757,Mark Smith,Female,55,Brooklyn,2022-11-04
+2758,Kenneth Moore,Female,71,Queens,2022-09-21
+2759,Matthew Anderson,Male,59,Staten Island,2023-01-20
+2760,Emily Martin,Female,10,Jersey City,2022-05-20
+2761,Mark Miller,Female,25,New York,2022-01-14
+2762,Paul White,F,48,Yonkers,2023-02-19
+2763,Anthony Gonzalez,F,48,Newark,2023-05-17
+2764,Karen Lee,M,10,Newark,2022-02-09
+2765,Linda Gonzalez,M,21,Bronx,2023-03-23
+2766,Thomas Harris,F,45,Yonkers,2023-10-13
+2767,Lisa Thompson,Male,84,Newark,2023-03-11
+2768,Jessica Davis,Female,5,Jersey City,2023-10-09
+2769,Mary Thompson,F,83,Queens,2022-09-25
+2770,Kenneth Anderson,F,19,Staten Island,2022-09-11
+2771,Kenneth Jackson,F,21,New York,2022-04-30
+2772,Jennifer Lee,F,50,Newark,2023-08-24
+2773,Jennifer Taylor,Female,55,Queens,2023-03-14
+2774,Thomas Thompson,Male,65,Newark,2023-08-24
+2775,Karen White,Female,12,Brooklyn,2023-10-14
+2776,Andrew Harris,Male,19,Staten Island,2022-08-03
+2777,Betty Thompson,Male,1,Queens,2023-05-19
+2778,James Brown,Male,54,Newark,2023-11-02
+2779,Charles White,Female,22,Queens,2023-01-19
+2780,Barbara Thompson,Female,26,Yonkers,2022-07-06
+2781,Paul Brown,Female,73,Bronx,2022-07-10
+2782,Richard Johnson,F,24,Bronx,2022-09-23
+2783,Anthony Anderson,F,80,Brooklyn,2023-10-14
+2784,David Williams,Male,11,Newark,2022-05-08
+2785,Sarah Williams,Male,4,Bronx,2023-05-05
+2786,Ashley Perez,Male,2,New York,2022-09-30
+2787,James Perez,M,6,Brooklyn,2022-08-05
+2788,Kimberly Sanchez,Male,49,Staten Island,2023-05-13
+2789,Mark Harris,Male,78,Newark,2022-12-11
+2790,Lisa Perez,Male,41,Bronx,2023-01-05
+2791,Betty Gonzalez,M,8,Jersey City,2022-12-05
+2792,Michael Smith,Female,52,Queens,2022-01-27
+2793,Kenneth Brown,M,36,Bronx,2023-01-13
+2794,Donald Martin,F,85,Yonkers,2023-06-12
+2795,Anthony Perez,Female,1,Jersey City,2022-01-18
+2796,Lisa Ramirez,Male,42,Yonkers,2022-08-28
+2797,Kenneth Thomas,Female,79,Brooklyn,2022-12-23
+2798,Margaret Robinson,Female,85,Brooklyn,2023-01-30
+2799,Charles Martin,Female,19,New York,2022-05-11
+2800,Ashley Sanchez,Male,39,Yonkers,2022-06-22
+2801,Donald Brown,Female,85,Bronx,2022-09-07
+2802,Susan Garcia,F,12,Brooklyn,2023-03-22
+2803,Mary Garcia,Male,50,Staten Island,2022-08-14
+2804,Thomas Perez,Female,86,Brooklyn,2023-11-13
+2805,William Robinson,M,82,Yonkers,2022-04-03
+2806,Nancy Ramirez,Female,74,Brooklyn,2023-10-22
+2807,Nancy Gonzalez,F,49,Newark,2022-08-27
+2808,Joseph Rodriguez,Male,38,Brooklyn,2022-04-25
+2809,Jennifer Hernandez,F,76,Bronx,2022-04-29
+2810,Andrew Lopez,Female,41,Newark,2023-08-14
+2811,James Martinez,Male,76,Bronx,2023-02-02
+2812,Margaret Hernandez,Male,87,Queens,2023-06-17
+2813,Kenneth Jackson,Female,14,Newark,2022-01-10
+2814,Steven Ramirez,Female,41,Queens,2022-10-31
+2815,Joseph Thomas,F,59,Queens,2023-09-08
+2816,Charles Jones,F,86,New York,2023-09-06
+2817,Christopher Martinez,M,16,Staten Island,2023-08-11
+2818,Mark Lee,Female,64,Staten Island,2023-01-21
+2819,Patricia Sanchez,Male,20,Bronx,2022-08-19
+2820,Patricia Robinson,Female,63,Newark,2022-11-03
+2821,David Smith,M,51,Jersey City,2023-03-09
+2822,Mark Lopez,Female,51,Brooklyn,2023-06-25
+2823,Charles Martinez,F,25,Newark,2022-04-10
+2824,William Hernandez,M,7,Staten Island,2023-04-14
+2825,David Jackson,Female,57,Yonkers,2022-10-26
+2826,Elizabeth Miller,Female,26,New York,2023-01-06
+2827,Andrew Brown,F,19,Newark,2023-03-14
+2828,David Robinson,Male,13,Jersey City,2023-05-01
+2829,Barbara Johnson,Male,66,Jersey City,2023-08-31
+2830,Margaret Jones,F,52,Bronx,2022-02-04
+2831,Linda Davis,Female,63,Staten Island,2023-09-03
+2832,Barbara Lee,F,49,Brooklyn,2023-04-20
+2833,Matthew Rodriguez,F,84,Yonkers,2023-01-12
+2834,James Brown,Male,11,Brooklyn,2023-05-16
+2835,Paul Davis,Male,76,Yonkers,2022-10-08
+2836,Michael Sanchez,M,24,Newark,2023-05-11
+2837,Margaret Martinez,M,17,Brooklyn,2022-11-30
+2838,Robert Thompson,M,24,Newark,2022-01-21
+2839,Betty Moore,M,68,Yonkers,2022-03-07
+2840,Kimberly Clark,M,69,Brooklyn,2022-08-01
+2841,Linda Garcia,M,24,New York,2023-07-23
+2842,Donald Sanchez,Male,16,New York,2022-05-12
+2843,Andrew Miller,F,21,Brooklyn,2023-07-30
+2844,Thomas Ramirez,Male,11,Brooklyn,2023-06-03
+2845,Karen Lopez,M,22,Newark,2023-11-05
+2846,James Davis,Male,6,Staten Island,2023-11-06
+2847,Steven Anderson,Female,74,Yonkers,2022-11-17
+2848,Kimberly Robinson,Male,78,Bronx,2022-04-12
+2849,John Davis,Male,25,Queens,2022-11-03
+2850,Susan Jones,M,71,Bronx,2023-08-29
+2851,Daniel Rodriguez,Female,80,Newark,2022-03-18
+2852,Emily Rodriguez,Male,49,Queens,2023-02-14
+2853,Sandra Williams,Male,87,Newark,2022-05-27
+2854,Steven Miller,Male,81,Staten Island,2023-10-11
+2855,Richard Thompson,Male,73,Queens,2023-03-06
+2856,Elizabeth Hernandez,Female,49,New York,2023-09-11
+2857,Jessica Williams,Male,16,Brooklyn,2023-12-02
+2858,Emily Wilson,Male,43,Brooklyn,2023-01-07
+2859,Nancy Harris,Male,19,Bronx,2022-10-08
+2860,James Brown,Female,29,Newark,2022-04-18
+2861,Linda Garcia,M,40,Yonkers,2022-04-08
+2862,Kimberly Lopez,F,74,Staten Island,2023-07-19
+2863,Sarah Martin,Male,7,Queens,2022-11-22
+2864,Matthew Garcia,Male,87,Newark,2023-05-04
+2865,Donna Jones,Male,2,Queens,2023-11-05
+2866,William Jones,Female,73,Staten Island,2022-02-24
+2867,Lisa Thompson,Female,87,Newark,2023-04-14
+2868,Barbara Anderson,Male,60,Staten Island,2022-10-10
+2869,Margaret Taylor,F,30,Staten Island,2023-10-13
+2870,Jennifer Martinez,Female,41,Brooklyn,2023-10-12
+2871,Jennifer Williams,F,31,Brooklyn,2022-06-19
+2872,Andrew Johnson,Male,37,Yonkers,2022-01-11
+2873,Margaret Perez,M,18,Yonkers,2023-05-25
+2874,Paul Perez,F,69,Brooklyn,2023-02-20
+2875,James Martin,Female,1,Newark,2023-07-02
+2876,Daniel Davis,F,85,New York,2023-09-14
+2877,Donald Garcia,F,68,Bronx,2022-06-29
+2878,Robert Lopez,Female,66,Jersey City,2022-02-22
+2879,Margaret Thomas,Female,22,Jersey City,2022-04-26
+2880,Nancy Robinson,F,32,Brooklyn,2022-10-25
+2881,Karen Thomas,Male,34,Bronx,2022-01-03
+2882,Andrew Gonzalez,Female,40,New York,2023-04-20
+2883,Michelle Ramirez,Female,8,Jersey City,2022-01-07
+2884,Michelle Anderson,Male,39,Jersey City,2022-04-20
+2885,James Lopez,F,24,Newark,2022-12-30
+2886,James Brown,Female,63,Bronx,2022-03-28
+2887,Kimberly Taylor,Female,53,Brooklyn,2023-05-15
+2888,James Jones,F,33,Bronx,2023-04-27
+2889,Betty Lopez,Male,47,Newark,2022-07-06
+2890,Steven Sanchez,Male,14,Yonkers,2023-11-04
+2891,Donald Garcia,Female,46,Newark,2022-01-06
+2892,Daniel Lewis,F,26,Brooklyn,2022-07-14
+2893,Charles Johnson,Female,51,Newark,2022-12-06
+2894,John Garcia,F,26,Yonkers,2023-11-13
+2895,Sarah Brown,Female,63,Yonkers,2023-11-30
+2896,William Hernandez,Female,65,Newark,2022-05-15
+2897,Linda Brown,Male,17,Queens,2022-12-19
+2898,Paul Smith,F,31,New York,2023-11-26
+2899,Nancy Wilson,M,2,Newark,2023-05-07
+2900,Charles Martinez,Female,11,Newark,2022-09-11
+2901,Michelle Jones,F,66,Queens,2022-09-13
+2902,Sarah Harris,Male,34,Bronx,2023-11-14
+2903,Margaret Miller,Female,14,Queens,2022-07-13
+2904,Donna Lee,F,20,Bronx,2022-05-04
+2905,William Gonzalez,Male,36,Bronx,2022-05-30
+2906,Margaret Smith,M,26,Brooklyn,2022-02-22
+2907,Matthew Wilson,M,40,Bronx,2022-08-16
+2908,Nancy Wilson,Female,8,Newark,2023-10-22
+2909,Patricia Martinez,Male,35,Jersey City,2022-10-15
+2910,Daniel Thompson,Female,32,Jersey City,2022-02-18
+2911,Barbara Johnson,Male,7,Jersey City,2022-08-06
+2912,Charles Thomas,Male,78,Brooklyn,2023-03-18
+2913,Barbara Rodriguez,Female,47,Jersey City,2022-11-08
+2914,Linda Brown,F,2,Queens,2022-12-06
+2915,Lisa White,Male,76,Jersey City,2022-09-01
+2916,Sarah Miller,M,50,Brooklyn,2022-04-19
+2917,William Lee,F,78,Brooklyn,2022-02-12
+2918,Donna Robinson,F,25,Bronx,2023-04-02
+2919,Michael Williams,M,80,Jersey City,2022-11-05
+2920,Mark Harris,Female,69,Queens,2022-02-14
+2921,William Miller,Female,71,Staten Island,2023-07-28
+2922,Daniel Lewis,Male,58,Brooklyn,2023-03-23
+2923,Robert Thomas,Female,68,New York,2022-06-20
+2924,Kenneth Rodriguez,F,17,Staten Island,2022-02-16
+2925,Andrew Johnson,F,25,Newark,2023-05-22
+2926,Steven Ramirez,M,10,Queens,2023-03-25
+2927,Paul Gonzalez,M,50,Newark,2023-09-14
+2928,Sarah Miller,Female,1,Queens,2023-08-09
+2929,Susan Jackson,F,2,Yonkers,2023-05-31
+2930,Kimberly Rodriguez,Male,29,Staten Island,2022-10-02
+2931,Emily Brown,Female,29,New York,2023-07-01
+2932,Jessica Martinez,Male,82,Queens,2022-10-12
+2933,William Rodriguez,Male,83,Bronx,2022-08-04
+2934,Steven Brown,Male,84,Jersey City,2023-10-10
+2935,Kenneth Lopez,Male,11,Staten Island,2022-05-17
+2936,Anthony Lewis,M,38,Jersey City,2022-02-28
+2937,James Clark,Male,29,Staten Island,2022-06-30
+2938,Thomas Smith,M,85,Brooklyn,2023-01-27
+2939,Thomas Ramirez,F,82,Bronx,2023-03-29
+2940,Joseph Hernandez,Male,27,Newark,2022-06-09
+2941,Donald Davis,F,56,Jersey City,2022-06-01
+2942,Mark Williams,Female,24,Yonkers,2022-07-09
+2943,Barbara Miller,M,63,Queens,2023-10-26
+2944,Charles Smith,Male,21,Queens,2023-02-08
+2945,Kenneth Miller,Male,19,Brooklyn,2023-03-13
+2946,Jessica Anderson,F,52,Brooklyn,2023-06-24
+2947,William White,Male,78,Brooklyn,2023-01-22
+2948,Matthew Smith,Male,2,New York,2022-05-16
+2949,Jessica Harris,Male,35,Queens,2023-10-05
+2950,Kenneth Smith,Male,14,Jersey City,2022-03-29
+2951,Richard Jones,Female,73,Yonkers,2022-06-17
+2952,Karen Hernandez,Female,20,Bronx,2022-02-27
+2953,Steven Thompson,Male,81,Brooklyn,2022-01-22
+2954,John Brown,M,38,Brooklyn,2023-06-08
+2955,Anthony Jones,Male,29,New York,2022-08-21
+2956,Margaret Gonzalez,Female,46,Staten Island,2022-08-20
+2957,Matthew Perez,F,15,Yonkers,2022-06-23
+2958,Linda Davis,Male,37,Jersey City,2022-03-20
+2959,Michelle Hernandez,Male,47,Brooklyn,2022-02-14
+2960,Kenneth Jones,Female,55,Jersey City,2023-09-07
+2961,Barbara Perez,Female,20,Staten Island,2023-10-02
+2962,Charles Lopez,Male,35,Yonkers,2023-11-09
+2963,Lisa Robinson,Male,10,New York,2022-06-02
+2964,Elizabeth Hernandez,Female,50,Yonkers,2023-05-05
+2965,Robert Brown,M,55,Staten Island,2022-05-29
+2966,Jennifer Hernandez,Female,24,Newark,2022-12-28
+2967,Christopher Thomas,Female,62,Newark,2023-09-09
+2968,Nancy Jones,F,32,Newark,2023-03-05
+2969,Emily Thomas,M,69,Yonkers,2023-06-30
+2970,Steven Clark,Female,50,Brooklyn,2023-08-18
+2971,Anthony Taylor,M,29,Brooklyn,2022-08-29
+2972,Lisa Smith,Female,3,Jersey City,2023-07-26
+2973,Mark Jones,Male,8,Jersey City,2023-01-05
+2974,William Martinez,Female,19,Newark,2022-09-06
+2975,Susan Clark,Female,8,Queens,2022-05-01
+2976,Elizabeth Gonzalez,F,4,Newark,2023-01-16
+2977,Patricia Thompson,Male,85,Brooklyn,2023-05-04
+2978,Kenneth Ramirez,Female,4,Queens,2023-01-10
+2979,Elizabeth Williams,Female,10,New York,2023-08-06
+2980,Anthony Jones,Female,61,Queens,2023-06-25
+2981,Karen Thomas,Female,44,Yonkers,2023-10-23
+2982,James Martinez,Male,20,New York,2023-10-20
+2983,John Martin,Female,65,Queens,2022-01-12
+2984,Betty Clark,Female,88,Yonkers,2023-07-22
+2985,Thomas Robinson,M,65,Staten Island,2022-08-21
+2986,Margaret Robinson,Female,35,Brooklyn,2023-06-19
+2987,Matthew Jones,F,28,Newark,2023-09-26
+2988,Patricia Davis,Female,24,Brooklyn,2023-04-25
+2989,Mark Hernandez,F,83,Newark,2023-01-25
+2990,David Johnson,Male,83,Newark,2022-07-19
+2991,Sarah Brown,Male,10,Jersey City,2023-09-10
+2992,Nancy Smith,Female,37,Queens,2023-07-09
+2993,Michael Williams,Female,77,New York,2022-11-13
+2994,Richard Moore,Female,82,New York,2022-09-04
+2995,Sarah Williams,M,73,New York,2023-08-01
+2996,Mark Johnson,Male,41,Brooklyn,2022-11-13
+2997,James Lopez,Male,51,Bronx,2022-11-19
+2998,Betty White,Male,17,Brooklyn,2022-12-06
+2999,Anthony Lewis,F,65,Brooklyn,2023-05-30
+3000,Elizabeth Smith,M,49,Yonkers,2023-08-24
+3001,John Martinez,Female,20,Yonkers,2022-03-22
+3002,Jennifer Thompson,Female,28,Queens,2022-06-14
+3003,Paul Taylor,F,78,Jersey City,2023-04-04
+3004,William Hernandez,Male,47,Newark,2022-02-10
+3005,Matthew Davis,Female,79,Brooklyn,2022-06-06
+3006,Andrew Lee,Female,13,New York,2022-05-27
+3007,Karen Moore,Male,64,Brooklyn,2023-04-11
+3008,Christopher Garcia,Male,21,Brooklyn,2022-10-14
+3009,Andrew Lopez,Male,12,Brooklyn,2022-07-03
+3010,Sandra Rodriguez,Female,33,Yonkers,2023-10-28
+3011,William Brown,M,63,New York,2023-01-08
+3012,Charles Gonzalez,Female,80,Queens,2023-03-28
+3013,Lisa Taylor,M,41,Jersey City,2022-03-27
+3014,Anthony Taylor,Female,34,New York,2023-09-28
+3015,Patricia White,Female,72,New York,2022-06-08
+3016,Michael Martinez,Female,21,Newark,2022-03-16
+3017,Joseph Gonzalez,Female,86,Brooklyn,2022-12-24
+3018,Sandra Anderson,F,69,Yonkers,2022-04-22
+3019,Jennifer Garcia,F,14,Newark,2023-03-20
+3020,Richard Gonzalez,Male,9,Jersey City,2022-12-17
+3021,Kenneth Thomas,Female,61,Brooklyn,2022-10-13
+3022,Sandra Johnson,M,20,Yonkers,2022-05-30
+3023,Susan Hernandez,M,5,Newark,2022-03-05
+3024,Lisa Sanchez,Female,61,Bronx,2022-02-25
+3025,Susan Ramirez,Male,88,Newark,2022-10-04
+3026,Thomas Lee,Female,11,Queens,2022-03-12
+3027,Sarah Gonzalez,Male,39,Yonkers,2023-03-06
+3028,Kimberly Miller,F,34,Queens,2022-02-25
+3029,Jennifer Lewis,Female,44,Staten Island,2022-06-18
+3030,Richard Lopez,Female,62,Yonkers,2023-07-03
+3031,David Thompson,Female,46,Newark,2022-01-11
+3032,Emily Sanchez,M,26,Brooklyn,2023-11-15
+3033,Donna Martin,Female,42,Jersey City,2022-01-15
+3034,Elizabeth Lewis,Female,19,Yonkers,2022-11-21
+3035,Linda Sanchez,F,53,Staten Island,2023-06-18
+3036,James Anderson,Female,82,Yonkers,2023-10-17
+3037,Donna Brown,Male,28,Bronx,2023-03-07
+3038,Steven Harris,Female,77,Newark,2022-08-10
+3039,Daniel Miller,Female,87,New York,2023-01-15
+3040,Lisa Smith,Male,40,Brooklyn,2023-05-27
+3041,Sandra Wilson,Female,46,Jersey City,2023-07-10
+3042,Margaret Taylor,Male,15,Queens,2023-04-15
+3043,Margaret Lopez,Female,71,Queens,2023-07-10
+3044,Margaret Gonzalez,Male,85,Newark,2023-10-12
+3045,Charles Thompson,M,13,Brooklyn,2022-04-17
+3046,Jennifer Lee,Male,79,Newark,2022-04-17
+3047,Ashley White,M,70,Brooklyn,2023-10-11
+3048,Donald Taylor,M,5,Staten Island,2023-03-07
+3049,Susan Davis,Female,71,Newark,2022-04-28
+3050,Richard Ramirez,Female,16,Jersey City,2023-04-21
+3051,Anthony Robinson,F,51,New York,2023-01-19
+3052,Joseph Taylor,Male,35,Staten Island,2022-11-11
+3053,Anthony Perez,Female,1,Newark,2022-02-03
+3054,James Smith,Female,48,Jersey City,2022-12-10
+3055,David Jackson,Female,31,Newark,2022-07-17
+3056,Michelle Lee,Female,7,Newark,2022-05-12
+3057,Matthew White,Female,52,Jersey City,2023-06-14
+3058,David Wilson,Female,13,Queens,2023-06-01
+3059,Linda Lee,M,51,Staten Island,2023-07-21
+3060,David Hernandez,Female,12,Brooklyn,2022-01-27
+3061,Margaret Smith,F,76,Queens,2022-01-29
+3062,Michelle Thompson,M,11,Newark,2022-01-26
+3063,William Anderson,F,81,Jersey City,2022-07-11
+3064,Jessica Lee,Female,39,Bronx,2023-07-03
+3065,Jessica White,Female,34,New York,2022-10-09
+3066,Jennifer Robinson,Female,81,New York,2023-10-16
+3067,Donna Ramirez,Male,15,Yonkers,2023-09-03
+3068,Linda Brown,Female,37,Staten Island,2022-07-04
+3069,Jennifer Williams,Female,47,Bronx,2023-02-05
+3070,Michael Thomas,Male,53,Brooklyn,2023-05-14
+3071,Robert Miller,F,54,Newark,2022-11-18
+3072,Donald Sanchez,Female,24,Staten Island,2022-01-11
+3073,Barbara Perez,M,81,New York,2022-05-01
+3074,Nancy Lopez,Female,79,New York,2022-06-12
+3075,Kimberly White,Male,16,Bronx,2023-09-13
+3076,Mary Moore,Male,67,Queens,2022-08-10
+3077,Lisa Brown,Female,4,Jersey City,2022-05-22
+3078,Joseph Williams,F,17,Staten Island,2022-10-08
+3079,Mark Miller,Male,45,Staten Island,2023-04-24
+3080,Ashley Wilson,M,52,Bronx,2022-09-14
+3081,Barbara Miller,F,36,Newark,2022-04-16
+3082,Donna Sanchez,M,40,Queens,2022-07-30
+3083,Ashley Wilson,Female,55,Staten Island,2022-11-23
+3084,Michelle Brown,M,50,Newark,2022-07-24
+3085,Andrew Lopez,Male,81,Brooklyn,2023-04-06
+3086,David Lewis,Male,66,Staten Island,2023-08-24
+3087,Anthony Martinez,M,83,Jersey City,2023-02-12
+3088,Mary Brown,Female,42,Newark,2022-07-10
+3089,Daniel Davis,Male,28,Jersey City,2023-01-16
+3090,Elizabeth Harris,Male,16,New York,2022-11-23
+3091,James Thompson,Male,28,Yonkers,2023-08-05
+3092,Christopher Lewis,Female,72,Brooklyn,2023-01-30
+3093,Charles Martin,Female,68,Bronx,2022-04-16
+3094,Emily Rodriguez,F,78,Brooklyn,2023-08-11
+3095,Anthony Perez,Female,41,Jersey City,2022-07-22
+3096,Richard Johnson,Female,64,New York,2022-10-09
+3097,Anthony Brown,Male,58,Queens,2023-09-08
+3098,Christopher Jackson,Female,31,New York,2022-10-19
+3099,Mary Lee,M,1,Yonkers,2022-10-19
+3100,William Clark,Female,5,New York,2022-12-12
+3101,Mary Williams,Female,13,Newark,2022-11-05
+3102,Sarah Hernandez,Male,52,Brooklyn,2023-07-24
+3103,Christopher Thomas,M,7,Newark,2022-11-02
+3104,Sandra Thomas,F,16,Jersey City,2023-09-25
+3105,Michael Smith,Female,7,New York,2022-05-23
+3106,Michael Hernandez,F,56,Bronx,2022-06-24
+3107,Jennifer Miller,F,48,New York,2022-02-23
+3108,Thomas Lewis,Male,15,New York,2022-11-08
+3109,Robert Rodriguez,Male,79,Newark,2022-10-04
+3110,David Robinson,Female,75,Yonkers,2022-05-03
+3111,William Hernandez,Female,75,Newark,2023-10-15
+3112,Donald Perez,Male,67,Bronx,2023-08-15
+3113,Mark Perez,Female,36,Jersey City,2023-05-10
+3114,Joseph Williams,Male,38,Brooklyn,2022-12-28
+3115,Emily Clark,Female,85,Bronx,2022-03-21
+3116,Robert Thomas,Male,28,New York,2023-11-18
+3117,Susan Anderson,Female,25,Yonkers,2022-04-18
+3118,Nancy Miller,M,68,Jersey City,2022-11-16
+3119,Sandra Lee,Female,65,Brooklyn,2022-05-14
+3120,Joseph Robinson,Male,50,Yonkers,2023-09-28
+3121,Paul Miller,Female,25,Brooklyn,2022-10-12
+3122,Margaret Garcia,F,40,Brooklyn,2022-05-31
+3123,Sandra Lewis,Male,15,Bronx,2022-01-17
+3124,Sandra Garcia,Male,4,Yonkers,2023-11-09
+3125,Kimberly Anderson,Male,34,Brooklyn,2023-07-18
+3126,Jennifer Lopez,Female,28,Queens,2023-02-11
+3127,Paul Wilson,M,43,New York,2023-03-28
+3128,Sarah Lopez,Male,7,Newark,2023-03-09
+3129,Richard Martinez,Female,52,Queens,2023-09-01
+3130,Sarah Taylor,M,64,Newark,2022-04-22
+3131,Patricia Lee,Female,15,Bronx,2022-04-28
+3132,Patricia Lewis,Male,74,Staten Island,2022-09-02
+3133,Robert Moore,Male,36,Bronx,2023-09-28
+3134,Betty Gonzalez,Female,13,Bronx,2022-10-02
+3135,Ashley Miller,Female,27,Jersey City,2023-10-15
+3136,Charles Thompson,M,37,New York,2022-04-07
+3137,Barbara Taylor,F,80,Yonkers,2022-11-09
+3138,Jessica Garcia,Male,88,Brooklyn,2022-06-20
+3139,Barbara Hernandez,Female,19,New York,2023-11-14
+3140,Mark Wilson,Male,3,Queens,2022-09-28
+3141,Robert Garcia,F,2,Jersey City,2023-05-01
+3142,Donna Smith,Female,32,Yonkers,2022-04-23
+3143,John Clark,Male,73,Staten Island,2022-08-22
+3144,Kimberly Taylor,Female,19,Brooklyn,2022-04-13
+3145,Karen Sanchez,F,43,Yonkers,2023-05-18
+3146,Daniel Moore,Male,85,Yonkers,2022-09-17
+3147,Lisa Anderson,Male,46,Staten Island,2022-12-08
+3148,Kimberly Harris,F,77,Yonkers,2022-04-26
+3149,Sarah Perez,M,82,New York,2022-06-01
+3150,Anthony Ramirez,Female,85,Queens,2023-01-01
+3151,Ashley Smith,Female,74,Newark,2023-01-04
+3152,Susan White,Male,25,Newark,2023-10-17
+3153,Michael Rodriguez,F,87,Yonkers,2023-06-24
+3154,Barbara Rodriguez,F,45,Jersey City,2023-02-05
+3155,Donna Wilson,Male,40,Bronx,2022-02-12
+3156,Donna Taylor,F,44,Brooklyn,2023-03-20
+3157,Sandra Jackson,Male,37,Brooklyn,2022-01-09
+3158,Ashley Robinson,F,19,Yonkers,2023-11-29
+3159,Elizabeth Taylor,Male,80,Queens,2022-11-07
+3160,Ashley Martinez,Male,38,New York,2023-04-10
+3161,John Miller,Male,76,Brooklyn,2022-02-24
+3162,Ashley Martinez,Male,56,Jersey City,2023-11-08
+3163,James Johnson,Male,18,Jersey City,2022-10-18
+3164,Paul Perez,M,20,Brooklyn,2022-10-05
+3165,Elizabeth White,Female,56,Brooklyn,2022-10-25
+3166,Joseph Johnson,Female,46,Bronx,2023-11-26
+3167,Matthew Wilson,Female,13,Staten Island,2022-11-06
+3168,Kenneth Martinez,Female,73,Newark,2023-11-27
+3169,Christopher Sanchez,M,18,Bronx,2022-09-14
+3170,William Wilson,M,26,Staten Island,2022-11-09
+3171,Jennifer Martinez,M,81,Yonkers,2023-07-13
+3172,Barbara Gonzalez,Female,13,Queens,2023-06-24
+3173,Donald Thompson,Male,65,Jersey City,2023-04-25
+3174,Daniel Wilson,Female,54,Newark,2023-04-18
+3175,Mary Robinson,M,4,Newark,2022-04-01
+3176,William Martin,Male,32,Jersey City,2022-05-11
+3177,Michelle Moore,M,38,New York,2023-02-07
+3178,William Gonzalez,F,1,Yonkers,2023-06-15
+3179,Sandra Clark,Male,11,New York,2022-10-04
+3180,Michael Hernandez,M,13,Staten Island,2023-08-03
+3181,Mark Thompson,Male,8,Brooklyn,2023-08-22
+3182,Paul White,F,7,Bronx,2023-06-13
+3183,Elizabeth Moore,F,64,Queens,2022-08-17
+3184,Elizabeth Martinez,F,40,New York,2023-05-12
+3185,Michelle Thompson,Female,15,Brooklyn,2022-01-01
+3186,Elizabeth Martin,Male,67,Brooklyn,2022-09-11
+3187,Susan Brown,Female,4,Yonkers,2023-02-05
+3188,Patricia Robinson,Male,39,Newark,2023-05-11
+3189,Barbara Clark,Female,70,Staten Island,2023-09-20
+3190,Donald Ramirez,F,79,Brooklyn,2023-03-19
+3191,Elizabeth Lee,Male,24,Queens,2023-11-05
+3192,Jessica Garcia,M,70,Bronx,2023-05-03
+3193,Mark Martinez,Male,86,Brooklyn,2023-08-26
+3194,Ashley Lopez,F,36,Newark,2023-01-31
+3195,Michael Anderson,Female,55,Queens,2022-01-29
+3196,Charles Anderson,Male,73,Newark,2022-01-12
+3197,Donna Martinez,Male,83,Yonkers,2022-02-13
+3198,Daniel Jones,Female,59,Staten Island,2022-01-10
+3199,David Lopez,M,65,Bronx,2022-12-24
+3200,Kimberly Gonzalez,M,9,Queens,2023-11-03

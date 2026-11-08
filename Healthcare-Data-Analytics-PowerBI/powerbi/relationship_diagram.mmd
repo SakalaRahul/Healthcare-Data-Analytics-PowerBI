@@ -1,0 +1,6 @@
+graph TD
+    DimDate[DimDate] -->|1 : *| FactAppointments[FactAppointments]
+    DimPatients[DimPatients] -->|1 : *| FactAppointments[FactAppointments]
+    DimDoctors[DimDoctors] -->|1 : *| FactAppointments[FactAppointments]
+    DimDepartments[DimDepartments] -->|1 : *| FactAppointments[FactAppointments]
+    DimDepartments[DimDepartments] -->|1 : *| DimDoctors[DimDoctors]

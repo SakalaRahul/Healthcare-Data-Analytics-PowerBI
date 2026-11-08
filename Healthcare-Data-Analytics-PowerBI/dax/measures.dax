@@ -1,0 +1,129 @@
+-- ===============================================================================
+-- File: measures.dax
+-- Description: Complete DAX Measures for Healthcare Performance Dashboard
+-- Author: Rahul Sakala
+-- ===============================================================================
+
+-- 1. Total Appointments
+Total Appointments = COUNT(FactAppointments[AppointmentID])
+
+-- 2. Completed Appointments
+Completed Appointments = 
+CALCULATE(
+    COUNT(FactAppointments[AppointmentID]),
+    FactAppointments[AppointmentStatus] = "Completed"
+)
+
+-- 3. Cancelled Appointments
+Cancelled Appointments = 
+CALCULATE(
+    COUNT(FactAppointments[AppointmentID]),
+    FactAppointments[AppointmentStatus] = "Cancelled"
+)
+
+-- 4. No-Show Appointments
+No-Show Appointments = 
+CALCULATE(
+    COUNT(FactAppointments[AppointmentID]),
+    FactAppointments[AppointmentStatus] = "No-Show"
+)
+
+-- 5. Rescheduled Appointments
+Rescheduled Appointments = 
+CALCULATE(
+    COUNT(FactAppointments[AppointmentID]),
+    FactAppointments[AppointmentStatus] = "Rescheduled"
+)
+
+-- 6. Completion Rate %
+Completion Rate % = 
+DIVIDE([Completed Appointments], [Total Appointments], 0)
+
+-- 7. Cancellation Rate %
+Cancellation Rate % = 
+DIVIDE([Cancelled Appointments], [Total Appointments], 0)
+
+-- 8. No-Show Rate %
+No-Show Rate % = 
+DIVIDE([No-Show Appointments], [Total Appointments], 0)
+
+-- 9. Total Revenue
+Total Revenue = 
+CALCULATE(
+    SUM(FactAppointments[ConsultationFee]),
+    FactAppointments[AppointmentStatus] = "Completed"
+)
+
+-- 10. Revenue per Completed Appointment
+Revenue per Completed Appointment = 
+DIVIDE([Total Revenue], [Completed Appointments], 0)
+
+-- 11. Average Waiting Time (Minutes)
+Avg Waiting Time = 
+CALCULATE(
+    AVERAGE(FactAppointments[WaitingTimeMinutes]),
+    FactAppointments[AppointmentStatus] = "Completed"
+)
+
+-- 12. Median Waiting Time
+Median Waiting Time = 
+CALCULATE(
+    MEDIAN(FactAppointments[WaitingTimeMinutes]),
+    FactAppointments[AppointmentStatus] = "Completed"
+)
+
+-- 13. Average Consultation Duration
+Avg Consultation Duration = 
+CALCULATE(
+    AVERAGE(FactAppointments[ConsultationDuration]),
+    FactAppointments[AppointmentStatus] = "Completed"
+)
+
+-- 14. Unique Patients
+Unique Patients = DISTINCTCOUNT(FactAppointments[PatientID])
+
+-- 15. Appointments per Patient
+Appointments per Patient = 
+DIVIDE([Total Appointments], [Unique Patients], 0)
+
+-- 16. Monthly Revenue
+Monthly Revenue = 
+CALCULATE(
+    [Total Revenue],
+    ALLEXCEPT(DimDate, DimDate[Year], DimDate[Month])
+)
+
+-- 17. Previous Month Revenue
+Previous Month Revenue = 
+CALCULATE(
+    [Total Revenue],
+    DATEADD(DimDate[Date], -1, MONTH)
+)
+
+-- 18. Month-over-Month Revenue Growth %
+MoM Revenue Growth % = 
+VAR PrevRev = [Previous Month Revenue]
+RETURN
+DIVIDE([Total Revenue] - PrevRev, PrevRev, 0)
+
+-- 19. Year-to-Date Revenue
+YTD Revenue = 
+TOTALYTD([Total Revenue], DimDate[Date])
+
+-- 20. Waiting Time SLA Achievement % (Threshold: <= 30 Mins)
+Waiting Time SLA % = 
+VAR UnderSLA = 
+    CALCULATE(
+        COUNT(FactAppointments[AppointmentID]),
+        FactAppointments[AppointmentStatus] = "Completed",
+        FactAppointments[WaitingTimeMinutes] <= 30
+    )
+RETURN
+DIVIDE(UnderSLA, [Completed Appointments], 0)
+
+-- 21. Doctor Performance Score (Scale 0-100 based on Completion & SLA)
+Doctor Performance Score = 
+VAR CompRate = [Completion Rate %]
+VAR SLARate = [Waiting Time SLA %]
+RETURN
+ROUND((CompRate * 50) + (SLARate * 50), 1)
